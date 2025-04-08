@@ -1,4 +1,6 @@
 # List .scummvm name based on the ScummVM ID.
+Version TXT [link](https://github.com/matakko/rom-name/blob/main/scummvm-name.txt)
+
 source : https://www.scummvm.org/compatibility/
 
 | Shortcut      | Name |
