@@ -7,5 +7,5 @@ This repos aims to help to find names with arcade roms or scummvm game with thei
 
 ## Scummvm
 
-- List [scummvm-name](https://github.com/matakko/rom-name/blob/main/scummvm-name.md)
+- List .scummvm name [scummvm-name](https://github.com/matakko/rom-name/blob/main/scummvm-name.md)
 - raw [txt](https://github.com/matakko/rom-name/blob/main/scummvm-name.txt)
