@@ -1,4 +1,6 @@
-#Arcade name list A to N:
+# Arcade name list A to N:
+List O to Z [link](https://github.com/matakko/rom-name/blob/main/arcade-name-oz.md)
+Version TXT [link](https://github.com/matakko/rom-name/blob/main/arcade-name.txt)
 
 | Syntax      | Description |
 | ----------- | ----------- |
