@@ -1,8 +1,8 @@
-		 Delphine Software Game Compatibility Chart Game Full Name 
+		 Delphine Software 
 os.scummvm		007: James Bond - The Stealth Affair 
 cruise.scummvm		Cruise for a Corpse 
 fw.scummvm		Future Wars: Adventures in Time 
-		Interactive Fiction Game Compatibility Chart Game Full Name 
+		Interactive Fiction 
 adrift.scummvm		ADRIFT Interactive Fiction games 
 agt.scummvm		AGT Interactive Fiction games 
 advsys.scummvm		AdvSys Interactive Fiction games 
@@ -15,7 +15,7 @@ level9.scummvm		Level 9 Interactive Fiction games
 quest.scummvm		Quest Interactive Fiction games 
 scottadams.scummvm		Scott Adams Interactive Fiction games 
 zcode.scummvm		ZCode (Infocom and Inform) Interactive Fiction games 
-		Coktel Vision Game Compatibility Chart Game Full Name 
+		Coktel Vision 
 adibou1.scummvm		Adibou 1 
 adibou2.scummvm		Adibou 2 
 bargon.scummvm		Bargon Attack 
@@ -31,7 +31,7 @@ bambou.scummvm		Playtoons Limited Edition - Bambou le sauveur de la jungle
 woodruff.scummvm		The Bizarre Adventures of Woodruff and the Schnibble 
 urban.scummvm		Urban Runner 
 ween.scummvm		Ween: The Prophecy 
-		Living Books Game Compatibility Chart Game Full Name 
+		Living Books 
 tortoise.scummvm		Aesop's Fables: The Tortoise and the Hare 
 arthurbday.scummvm		Arthur's Birthday 
 seussabc.scummvm		Dr. Seuss's ABC 
@@ -45,17 +45,17 @@ sheila.scummvm		Sheila Rae, the Brave
 bearfight.scummvm		The Berenstain Bears Get in a Fight 
 beardark.scummvm		The Berenstain Bears In The Dark 
 newkid.scummvm		The New Kid on the Block 
-		Synergy Inc. Game Compatibility Chart Game Full Name 
+		Synergy Inc. 
 alice.scummvm		Alice: An Interactive Museum 
 gadget.scummvm		Gadget: Invention, Travel and Adventure 
 lzone.scummvm		L-ZONE 
-		Stranga Games Game Compatibility Chart Game Full Name 
+		Stranga Games 
 ashinaredwitch.scummvm		Ashina: The Red Witch 
 justignorethem.scummvm		Just Ignore Them 
 mybigsister.scummvm		My Big Sister 
 mybigsisterrm.scummvm		My Big Sister Remastered 
 redbow.scummvm		Red Bow 
-		Sierra Game Compatibility Chart Game Full Name 
+		Sierra 
 astrochicken.scummvm		Astro Chicken 
 castlebrain.scummvm		Castle of Dr. Brain 
 iceman.scummvm		Code-Name: Iceman 
@@ -141,7 +141,7 @@ islandbrain.scummvm		The Island of Dr. Brain
 torin.scummvm		Torin's Passage 
 troll.scummvm		Troll's Tale 
 winnie.scummvm		Winnie the Pooh in the Hundred Acre Wood 
-		Humongous Entertainment Game Compatibility Chart Game Full Name 
+		Humongous Entertainment 
 baseball.scummvm		Backyard Baseball 
 baseball2001.scummvm		Backyard Baseball 2001 
 baseball2003.scummvm		Backyard Baseball 2003 
@@ -191,12 +191,12 @@ spyfox2.scummvm		Spy Fox 2: "Some Assembly Required"
 spyfox.scummvm		Spy Fox in "Dry Cereal" 
 mustard.scummvm		Spy Fox in "Hold the Mustard" 
 spyozon.scummvm		Spy Fox: "Operation Ozone" 
-		Revolution Game Compatibility Chart Game Full Name 
+		Revolution 
 sky.scummvm		Beneath a Steel Sky 
 sword2.scummvm		Broken Sword II: The Smoking Mirror 
 sword1.scummvm		Broken Sword: The Shadow of the Templars 
 lure.scummvm		Lure of the Temptress 
-		Wadjet Eye Games Game Compatibility Chart Game Full Name 
+		Wadjet Eye Games 
 blackwell2.scummvm		Blackwell Unbound 
 danewguys2.scummvm		Da New Guys: Day of the Jackass 
 geminirue.scummvm		Gemini Rue 
@@ -208,7 +208,7 @@ blackwell1.scummvm		The Blackwell Legacy
 shivah.scummvm		The Shivah 
 shivahkosher.scummvm		The Shivah: Kosher Edition 
 unavowed.scummvm		Unavowed 
-		Westwood Studios Game Compatibility Chart Game Full Name 
+		Westwood Studios 
 bladerunner.scummvm		Blade Runner 
 eob.scummvm		Eye of the Beholder 
 eob2.scummvm		Eye of the Beholder II: The Legend of Darkmoon 
@@ -216,22 +216,22 @@ lol.scummvm		Lands of Lore: The Throne of Chaos
 kyra1.scummvm		The Legend of Kyrandia 
 kyra3.scummvm		The Legend of Kyrandia: Book 3 - Malcolm's Revenge 
 kyra2.scummvm		The Legend of Kyrandia: Hand of Fate 
-		Tsunami Games Game Compatibility Chart Game Full Name 
+		Tsunami Games 
 blueforce.scummvm		Blue Force 
 ringworld2.scummvm		Return to Ringworld 
 ringworld.scummvm		Ringworld: Revenge of the Patriarch 
-		Incentive Software Game Compatibility Chart Game Full Name 
+		Incentive Software 
 castlemaster.scummvm		Castle Master 
 darkside.scummvm		Dark Side 
 driller.scummvm		Driller 
 totaleclipse.scummvm		Total Eclipse 
 totaleclipse2.scummvm		Total Eclipse 2 
-		Trilobyte Game Compatibility Chart Game Full Name 
+		Trilobyte 
 clandestiny.scummvm		Clandestiny 
 11h.scummvm		The 11th Hour: The Sequel to The 7th Guest 
 t7g.scummvm		The 7th Guest 
 unclehenry.scummvm		Uncle Henry's Playhouse 
-		Magnetic Scrolls Game Compatibility Chart Game Full Name 
+		Magnetic Scrolls 
 corruption.scummvm		Corruption 
 fish.scummvm		Fish! 
 jinxter.scummvm		Jinxter 
@@ -239,16 +239,16 @@ myth.scummvm		Myth
 guild.scummvm		The Guild of Thieves 
 pawn.scummvm		The Pawn 
 wonderland.scummvm		Wonderland 
-		Origin Systems Game Compatibility Chart Game Full Name 
+		Origin Systems 
 remorse.scummvm		Crusader: No Remorse 
 ultima4.scummvm		Ultima IV: Quest of the Avatar 
 ultima6.scummvm		Ultima VI: The False Prophet 
 ultima8.scummvm		Ultima VIII - Pagan 
-		Little Ark Game Compatibility Chart Game Full Name 
+		Little Ark 
 daniel.scummvm		Daniel in the Lions' Den 
 noah.scummvm		Noah's Ark 
 create.scummvm		The Story of Creation 
-		Animation Magic Game Compatibility Chart Game Full Name 
+		Animation Magic 
 darby.scummvm		Darby the Dragon 
 gregory.scummvm		Gregory and the Hot Air Balloon 
 babayaga.scummvm		Magic Tales: Baba Yaga and the Magic Geese 
@@ -257,7 +257,7 @@ liam.scummvm		Magic Tales: Liam Finds a Story
 sleepingcub.scummvm		Magic Tales: Sleeping Cub's Test of Courage 
 littlesamurai.scummvm		Magic Tales: The Little Samurai 
 princess.scummvm		Magic Tales: The Princess and the Crab 
-		Adventure Soft Game Compatibility Chart Game Full Name 
+		Adventure Soft 
 elvira2.scummvm		Elvira II: The Jaws of Cerberus 
 elvira1.scummvm		Elvira: Mistress of the Dark 
 pn.scummvm		Personal Nightmare 
@@ -269,7 +269,7 @@ puzzle.scummvm		Simon the Sorcerer's Puzzle Pack: NoPatience
 swampy.scummvm		Simon the Sorcerer's Puzzle Pack: Swampy Adventures 
 feeble.scummvm		The Feeble Files 
 waxworks.scummvm		Waxworks 
-		LucasArts Game Compatibility Chart Game Full Name 
+		LucasArts 
 monkey4.scummvm		Escape From Monkey Island 
 ft.scummvm		Full Throttle 
 grim.scummvm		Grim Fandango 
@@ -285,79 +285,79 @@ comi.scummvm		The Curse of Monkey Island
 dig.scummvm		The Dig 
 monkey.scummvm		The Secret of Monkey Island 
 zak.scummvm		Zak McKracken and the Alien Mindbenders 
-		Off Studio Game Compatibility Chart Game Full Name 
+		Off Studio 
 5ld.scummvm		Five Lethal Demons 
 5ma.scummvm		Five Magical Amulets 
 helga.scummvm		Helga Deep In Trouble 
-		Cloak and Dagger Games Game Compatibility Chart Game Full Name 
+		Cloak and Dagger Games 
 footballgame.scummvm		Football Game 
 sumatra.scummvm		Sumatra: Fate of Yandi 
 excavationhb.scummvm		The Excavation of Hob's Barrow 
-		Schnibble Productions Game Compatibility Chart Game Full Name 
+		Schnibble Productions 
 gobliiins5-1.scummvm		Gobliiins5 - L'Invasion des Morglotons Part1 
 gobliiins5-2.scummvm		Gobliiins5 - L'Invasion des Morglotons Part2 
 gobliiins5-3.scummvm		Gobliiins5 - L'Invasion des Morglotons Part3 
 gobliiins5-4.scummvm		Gobliiins5 - L'Invasion des Morglotons Part4 
-		The Dreamers Guild Game Compatibility Chart Game Full Name 
+		The Dreamers Guild 
 fta2.scummvm		Halls of the Dead: Faery Tale Adventure II 
 ihnm.scummvm		Harlan Ellison: I Have No Mouth, and I Must Scream 
 ite.scummvm		Inherit the Earth: Quest for the Orb 
-		ITA-Choco Game Compatibility Chart Game Full Name 
+		ITA-Choco 
 henachoco01.scummvm		Henachoco #1 
 henachoco02.scummvm		Henachoco #2 
 henachoco03.scummvm		Henachoco #3 
 henachoco04.scummvm		Henachoco #4 
 henachoco05.scummvm		Yaken Rodem 
-		Gray Design Associates Game Compatibility Chart Game Full Name 
+		Gray Design Associates 
 hugo2.scummvm		Hugo II: Whodunit? 
 hugo3.scummvm		Hugo III: Jungle of Doom 
 hugo1.scummvm		Hugo's House of Horrors 
-		Fan game Game Compatibility Chart Game Full Name 
+		Fan game 
 maniacmansiondeluxe.scummvm		Maniac Mansion Deluxe 
 sqdote.scummvm		Space Quest Minus 1: Decisions of the Elders 
 sqinc.scummvm		Space Quest: Incinerations 
-		K-D Lab Game Compatibility Chart Game Full Name 
+		K-D Lab 
 3mice1.scummvm		Marvellous Mice Adventures: Meeting Sea Rat 
 3mice2.scummvm		Marvellous Mice Adventures: Sea Rat's Birthday 
 maski.scummvm		Mask show 
 shveik.scummvm		The Adventures of the Good Soldier Schweik 
 nupogodi3.scummvm		Wait for it! Issue 3. Song for a hare 
-		New World Computing Game Compatibility Chart Game Full Name 
+		New World Computing 
 mm1.scummvm		Might and Magic: Book One - Secret of the Inner Sanctum 
 cloudsofxeen.scummvm		Might and Magic: Clouds of Xeen 
 darksideofxeen.scummvm		Might and Magic: Darkside of Xeen 
 swordsofxeen.scummvm		Might and Magic: Swords of Xeen 
 worldofxeen.scummvm		Might and Magic: World of Xeen 
-		Activision Game Compatibility Chart Game Full Name 
+		Activision 
 mti.scummvm		Muppet Treasure Island 
 rtz.scummvm		Return to Zork 
 znemesis.scummvm		Zork Nemesis: The Forbidden Lands 
 zgi.scummvm		Zork: Grand Inquisitor 
-		Cyan Worlds Game Compatibility Chart Game Full Name 
+		Cyan Worlds 
 myst.scummvm		Myst 
 riven.scummvm		Riven: The Sequel to Myst 
 manhole.scummvm		The Manhole 
-		Presto Studios Game Compatibility Chart Game Full Name 
+		Presto Studios 
 myst3.scummvm		Myst III: Exile 
 buried.scummvm		The Journeyman Project 2: Buried in Time 
 pegasus.scummvm		The Journeyman Project: Pegasus Prime 
-		Her Interactive, Inc. Game Compatibility Chart Game Full Name 
+		Her Interactive, Inc. 
 nancy3.scummvm		Nancy Drew: Message in a Haunted Mansion 
 nancy1.scummvm		Nancy Drew: Secrets Can Kill 
 nancy2.scummvm		Nancy Drew: Stay Tuned for Danger 
 nancy5.scummvm		Nancy Drew: The Final Scene 
 nancy4.scummvm		Nancy Drew: Treasure in the Royal Tower 
 vampirediaries.scummvm		The Vampire Diaries 
-		Polarware Game Compatibility Chart Game Full Name 
+		Polarware 
 ootopos.scummvm		OO-Topos 
 crimsoncrown.scummvm		The Crimson Crown: Further Adventures in Transylvania 
 transylvania.scummvm		Transylvania 
-		L.K. Avalon Game Compatibility Chart Game Full Name 
+		L.K. Avalon 
 reah.scummvm		Reah: Face the Unknown 
 schizm.scummvm		Schizm: Mysterious Journey 
 sfinx.scummvm		Sfinx 
 soltys.scummvm		Sołtys 
-		Other Game Compatibility Chart Game Full Name 
+		Other 
 ritter.scummvm		1½ Ritter: Auf der Suche nach der hinreißenden Herzelinde 
 toltecs.scummvm		3 Skulls of the Toltecs 
 goldenwake.scummvm		A Golden Wake 
