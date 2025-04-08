@@ -1,5 +1,7 @@
 # Arcade name list O to Z:
 
+- List A to N [link](https://github.com/matakko/rom-name/blob/main/arcade-name-an.md)
+- Version TXT [link](https://github.com/matakko/rom-name/blob/main/arcade-name.txt)
 | Syntax      | Description |
 | ----------- | ----------- |
 |obaoba	|Oba-Oba (set 1)	|
