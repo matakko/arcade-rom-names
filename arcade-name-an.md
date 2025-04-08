@@ -1,4 +1,4 @@
-# List .scummvm name based on the ScummVM ID.
+#Arcade name list A to N:
 
 | Syntax      | Description |
 | ----------- | ----------- |
