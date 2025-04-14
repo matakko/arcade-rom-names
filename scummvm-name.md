@@ -1,6 +1,6 @@
 # List .scummvm name based on the ScummVM ID.
-txt format list: [link](https://github.com/matakko/rom-name/blob/main/scummvm-name.txt)
-Source : https://www.scummvm.org/compatibility/
+- txt format list: [link](https://github.com/matakko/rom-name/blob/main/scummvm-name.txt)
+- Source : https://www.scummvm.org/compatibility/
 
 ## Developer 
 
