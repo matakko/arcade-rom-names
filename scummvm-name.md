@@ -13,7 +13,7 @@
 | [The Dreamers Guild](#The-Dreamers-Guild) | [Presto Studios](#Presto-Studios) |  [Her Interactive, Inc.](#Her-Interactive-Inc) |  [Polarware](#Polarware) |   [L.K. Avalon](#L-K-Avalon) |  [Other](#Other) |
 
 # Delphine Software 
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |os.scummvm		|  007: James Bond - The Stealth Affair 	|
@@ -21,7 +21,7 @@
 |fw.scummvm		|Future Wars: Adventures in Time 	|
 
 # Interactive Fiction
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |adrift.scummvm		|ADRIFT 	|
@@ -38,7 +38,7 @@
 |zcode.scummvm		|ZCode (Infocom and Inform)  	|
 
 # Coktel Vision 
-[Back to the Top](#Developer)	
+[Back to the Top](#Game-Developer)	
 | Shortcut | Name |
 | ----------- | ----------- |
 |adibou1.scummvm		|Adibou 1 	|
@@ -58,7 +58,7 @@
 |ween.scummvm		|Ween: The Prophecy 	|
 
 # Living Books 
-[Back to the Top](#Developer)	
+[Back to the Top](#Game-Developer)	
 | Shortcut | Name |
 | ----------- | ----------- |
 |tortoise.scummvm		|Aesop's Fables: The Tortoise and the Hare 	|
@@ -76,7 +76,7 @@
 |newkid.scummvm		|The New Kid on the Block 	|
 
 # Synergy Inc 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |alice.scummvm		|Alice: An Interactive Museum 	|
@@ -84,7 +84,7 @@
 |lzone.scummvm		|L-ZONE 	|
 
 # Stranga Games 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |ashinaredwitch.scummvm		|Ashina: The Red Witch 	|
@@ -94,7 +94,7 @@
 |redbow.scummvm		|Red Bow 	|
 
 # Sierra 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |astrochicken.scummvm		|Astro Chicken 	|
@@ -184,7 +184,7 @@
 |winnie.scummvm		|Winnie the Pooh in the Hundred Acre Wood 	|
 
 # Humongous Entertainment 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |baseball.scummvm		|Backyard Baseball 	|
@@ -238,7 +238,7 @@
 |spyozon.scummvm		|Spy Fox: "Operation Ozone" 	|
 
 # Revolution 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |sky.scummvm		|Beneath a Steel Sky 	|
@@ -247,7 +247,7 @@
 |lure.scummvm		|Lure of the Temptress 	|
 
 # Wadjet Eye Games 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |blackwell2.scummvm		|Blackwell Unbound 	|
@@ -263,7 +263,7 @@
 |unavowed.scummvm		|Unavowed 	|
 
 # Westwood Studios 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |bladerunner.scummvm		|Blade Runner 	|
@@ -275,7 +275,7 @@
 |kyra2.scummvm		|The Legend of Kyrandia: Hand of Fate 	|
 
 # Tsunami Games 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |blueforce.scummvm		|Blue Force 	|
@@ -283,7 +283,7 @@
 |ringworld.scummvm		|Ringworld: Revenge of the Patriarch 	|
 
 # Incentive Software 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |castlemaster.scummvm		|Castle Master 	|
@@ -293,7 +293,7 @@
 |totaleclipse2.scummvm		|Total Eclipse 2 	|
 
 # Trilobyte 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |clandestiny.scummvm		|Clandestiny 	|
@@ -302,7 +302,7 @@
 |unclehenry.scummvm		|Uncle Henry's Playhouse 	|
 
 # Magnetic Scrolls 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |corruption.scummvm		|Corruption 	|
@@ -314,7 +314,7 @@
 |wonderland.scummvm		|Wonderland 	|
 
 # Origin Systems 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |remorse.scummvm		|Crusader: No Remorse 	|
@@ -323,7 +323,7 @@
 |ultima8.scummvm		|Ultima VIII - Pagan 	|
 
 # Little Ark 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |daniel.scummvm		|Daniel in the Lions' Den 	|
@@ -331,7 +331,7 @@
 |create.scummvm		|The Story of Creation 	|
 
 # Animation Magic 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |darby.scummvm		|Darby the Dragon 	|
@@ -344,7 +344,7 @@
 |princess.scummvm		|Magic Tales: The Princess and the Crab 	|
 
 # Adventure Soft 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |elvira2.scummvm		|Elvira II: The Jaws of Cerberus 	|
@@ -360,7 +360,7 @@
 |waxworks.scummvm		|Waxworks 	|
 
 # LucasArts 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |monkey4.scummvm		|Escape From Monkey Island 	|
@@ -380,7 +380,7 @@
 |zak.scummvm		|Zak McKracken and the Alien Mindbenders 	|
 
 # Off Studio 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |5ld.scummvm		|Five Lethal Demons 	|
@@ -388,7 +388,7 @@
 |helga.scummvm		|Helga Deep In Trouble 	|
 
 # Cloak and Dagger Games 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |footballgame.scummvm		|Football Game 	|
@@ -396,7 +396,7 @@
 |excavationhb.scummvm		|The Excavation of Hob's Barrow 	|
 
 # Schnibble Productions 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |gobliiins5-1.scummvm		|Gobliiins5 - L'Invasion des Morglotons Part1 	|
@@ -405,7 +405,7 @@
 |gobliiins5-4.scummvm		|Gobliiins5 - L'Invasion des Morglotons Part4 	|
 
 # The Dreamers Guild 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |fta2.scummvm		|Halls of the Dead: Faery Tale Adventure II 	|
@@ -413,7 +413,7 @@
 |ite.scummvm		|Inherit the Earth: Quest for the Orb 	|
 
 # ITA-Choco 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |henachoco01.scummvm		|Henachoco #1 	|
@@ -423,7 +423,7 @@
 |henachoco05.scummvm		|Yaken Rodem 	|
 
 # Gray Design Associates 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |hugo2.scummvm		|Hugo II: Whodunit? 	|
@@ -431,7 +431,7 @@
 |hugo1.scummvm		|Hugo's House of Horrors 	|
 
 # Fan game 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |maniacmansiondeluxe.scummvm		|Maniac Mansion Deluxe 	|
@@ -439,7 +439,7 @@
 |sqinc.scummvm		|Space Quest: Incinerations 	|
 
 # K-D Lab 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |3mice1.scummvm		|Marvellous Mice Adventures: Meeting Sea Rat 	|
@@ -449,7 +449,7 @@
 |nupogodi3.scummvm		|Wait for it! Issue 3. Song for a hare 	|
 
 # New World Computing 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |mm1.scummvm		|Might and Magic: Book One - Secret of the Inner Sanctum 	|
@@ -459,7 +459,7 @@
 |worldofxeen.scummvm		|Might and Magic: World of Xeen 	|
 
 # Activision 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |mti.scummvm		|Muppet Treasure Island 	|
@@ -468,7 +468,7 @@
 |zgi.scummvm		|Zork: Grand Inquisitor 	|
 
 # Cyan Worlds 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |myst.scummvm		|Myst 	|
@@ -476,7 +476,7 @@
 |manhole.scummvm		|The Manhole 	|
 
 # Presto Studios 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |myst3.scummvm		|Myst III: Exile 	|
@@ -484,7 +484,7 @@
 |pegasus.scummvm		|The Journeyman Project: Pegasus Prime 	|
 
 # Her Interactive Inc 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |nancy3.scummvm		|Nancy Drew: Message in a Haunted Mansion 	|
@@ -495,7 +495,7 @@
 |vampirediaries.scummvm		|The Vampire Diaries 	|
 
 # Polarware 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |ootopos.scummvm		|OO-Topos 	|
@@ -503,7 +503,7 @@
 |transylvania.scummvm		|Transylvania 	|
 
 # L K Avalon 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |reah.scummvm		|Reah: Face the Unknown 	|
@@ -512,7 +512,7 @@
 |soltys.scummvm		|Sołtys 	|
 
 # Other 	
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 | Shortcut | Name |
 | ----------- | ----------- |
 |ritter.scummvm		|1½ Ritter: Auf der Suche nach der hinreißenden Herzelinde 	|
@@ -626,7 +626,7 @@
 
 
 
-[Back to the Top](#Developer)
+[Back to the Top](#Game-Developer)
 
 - [Delphine Software](#Delphine-Software)
 - [Interactive Fiction](#Interactive-Fiction)
