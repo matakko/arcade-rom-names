@@ -2,7 +2,7 @@
 - txt format list: [link](https://github.com/matakko/rom-name/blob/main/scummvm-name.txt)
 - Source : https://www.scummvm.org/compatibility/
 
-## Developer 
+## Game Developer 
 
 | [Delphine Software](#Delphine-Software) | [Interactive Fiction](#Interactive-Fiction) | [Coktel Vision](#Coktel-Vision) | [Living Books](#Living-Books) | [Synergy Inc](#Synergy-Inc) | [Stranga Games](#Stranga-Games) | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |  
