@@ -1,7 +1,7 @@
 
 # List Model 3 Merged name :
 
-| Games     | Roms |
+| Roms     | Names |
 | ----------- | -----------| 
 |   | Boat Race GP                        | 
 |  daytona2    | Daytona USA 2                         | 
