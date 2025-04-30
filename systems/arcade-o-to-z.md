@@ -3,7 +3,7 @@
 - List A to N [link](https://github.com/matakko/rom-name/blob/main/systems/arcade-a-to-n.md)
 - Version TXT [link](https://github.com/matakko/rom-name/blob/main/txt/arcade-name.txt)
   
-| Syntax      | Description |
+| Roms      | Name |
 | ----------- | ----------- |
 |obaoba	|Oba-Oba (set 1)	|
 |obaoba1	|Oba-Oba (set 2)	|
