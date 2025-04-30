@@ -3,7 +3,7 @@ This repos aims to help to find names with arcade roms or scummvm game with thei
 
 ## Arcade 
 - List arcade rom names : [A to N](https://github.com/matakko/rom-name/blob/main/systems/arcade-a-to-n.md) and [O to Z](https://github.com/matakko/rom-name/blob/main/systems/arcade-o-to-z.md)
-- raw [txt](https://github.com/matakko/rom-name/blob/main/arcade-name.txt)
+- raw [txt](https://github.com/matakko/rom-name/blob/main/txt/arcade-name.txt)
 
 ## Sega Model 3
 
