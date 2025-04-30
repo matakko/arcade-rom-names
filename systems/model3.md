@@ -1,6 +1,10 @@
 
 # List Model 3 Merged name :
 
+
+
+- List Raw Txt [List Txt](https://github.com/matakko/rom-name/blob/main/txt/model3-name.txt)
+
 | Roms     | Names |
 | ----------- | -----------| 
 |   | Boat Race GP                        | 
