@@ -3,8 +3,8 @@
 - List Raw Txt [List Txt](https://github.com/matakko/rom-name/blob/main/txt/model2-name.txt)
 
 
-  |     Roms  |  Names     |                     
-|  ----------- |   -------------------|          
+ |     Roms  |  Names     |                     
+ |  ----------- |   ------------------- |          
  |          |  Behind Enemy Lines            |  
  |          |  Cyber Troopers Virtual-On     |  
  |          |  Daytona USA                   |  
