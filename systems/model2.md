@@ -12,43 +12,112 @@
 ## Merged List:
 [Back to the Top](#list-sega-model-2)
 
- |     Roms  |  Names     |                     
- |  ----------- |   ------------------- |          
- |          |  Behind Enemy Lines            |  
- |          |  Cyber Troopers Virtual-On     |  
- |          |  Daytona USA                   |  
- |          |  Dead or Alive                 |  
- |          |  Desert Tank                   |  
- |          |  Dynamite Baseball             |  
- |          |  Dynamite Baseball 97          |  
- |          |  Dynamite Cop                  |  
- |          |  Fighting Vipers               |  
- |          |  Gunblade NY                   |  
- |          |  Indy 500                      |  
- |          |  Last Bronx                    |  
- |          |  Manx TT Superbike             |  
- |          |  Motor Raid                    |  
- |          |  Over Rev                      |  
- |          |  Pilot Kids                    |  
- |          |  Power Sled                    |  
- |          |  Rail Chase 2                  |  
- |          |  Sega Rally Championship       |  
- |          |  Sega Ski Super G              |  
- |          |  Sega Touring Car Championship |  
- |          |  Sega Water Ski                |  
- |          |  Sky Target                    |  
- |          |  Sonic the Fighters            |  
- |          |  Super GT 24H                  |  
- |          |  The House of the Dead         |  
- |          |  Top Skater                    |  
- |          |  Wave Runner                   |  
- |          |  Virtua Cop                    |  
- |          |  Virtua Cop 2                  |  
- |          |  Virtua Fighter 2              |  
- |          |  Virtua Striker                |  
- |          |  Zero Gunner                   |  
+ |   Roms    |  Names                         |                     
+ | --------- | ------------------------------ |          
+ | bel       |  Behind Enemy Lines            |  
+ | von       |  Cyber Troopers Virtual-On     |  
+ | daytona   |  Daytona USA                   |  
+ | doa       |  Dead or Alive                 |  
+ | desert    |  Desert Tank                   |  
+ |           |  Dynamite Baseball             |    
+ | dynabb97  |  Dynamite Baseball 97          |  
+ | dynamcop  | Dynamite Cop                   |  
+ | fvipers   |  Fighting Vipers               |  
+ | gunblade  |  Gunblade NY                   |  
+ | indy500   |  Indy 500                      |  
+ | lastbrnx  |  Last Bronx                    |  
+ | manxtt    |  Manx TT Superbike             |  
+ | motoraid  |  Motor Raid                    |  
+ | overrev   |  Over Rev                      |  
+ | pltkids   |  Pilot Kids                    |  
+ |           |  Power Sled                    |  
+ | rchase2   |  Rail Chase 2                  |  
+ | srallyc   |  Sega Rally Championship       |  
+ | skisuprg  |  Sega Ski Super G              |  
+ | stcc      |  Sega Touring Car Championship |  
+ | segawski  |  Sega Water Ski                |  
+ | skytargt  |  Sky Target                    |  
+ | sfight    |  Sonic the Fighters            |  
+ | sgt24h    |  Super GT 24H                  |  
+ | hotd      |  The House of the Dead         |  
+ | topskatr  |  Top Skater                    |  
+ | waverunr  |  Wave Runner                   |  
+ | vcop      |  Virtua Cop                    |  
+ | vcop2     |  Virtua Cop 2                  |  
+ | vf2       |  Virtua Fighter 2              |  
+ | vstriker  |  Virtua Striker                |  
+ | zerogun   |  Zero Gunner                   |  
 
 
 
 ## Non Merged List
 [Back to the Top](#list-sega-model-2)
+
+ |     Roms    |  System      |    Names                                             |                       
+ | ----------- | ------------ | ---------------------------------------------------- |                       
+ | daytona     | Model 2      | Daytona USA                                          |
+ | daytona93   | Model 2      | Daytona USA '93 Edition                              |
+ | daytonas    | Model 2      | Daytona USA (Saturn Ads)                             |
+ | daytonase   | Model 2      | Daytona USA Special Edition                          | 
+ | daytonat    | Model 2      | Daytona USA Turbo                                    |
+ | daytonata   | Model 2      | Daytona USA Turbo (Rev A)                            |
+ | daytonagtx  | Model 2      | Daytona USA: GTX2004                                 |
+ | daytonam    | Model 2      | Daytona USA: To The Maxx                             | 
+ | desert      | Model 2      | Desert Tank                                          |  
+ | vcop        | Model 2      | Virtua Cop                                           |
+ | vcopa       | Model 2      | Virtua Cop (Rev A)                                   |      
+ | doaa        | Model 2A-CRX | Dead or Alive (Model 2A)                             |
+ | dynamcop    | Model 2A-CRX | Dynamite Cop (Model 2A)                              |
+ | dyndeka2    | Model 2A-CRX | Dynamite Deka 2 (Model 2A)                           |
+ | manxttc     | Model 2A-CRX | Manx TT Superbike (Rev C, Twin)                      |
+ | manxtt      | Model 2A-CRX | Manx TT Superbike (Rev D, Deluxe)                    |
+ | motoraid    | Model 2A-CRX | Motor Raid                                           |
+ | pltkidsa    | Model 2A-CRX | Pilot Kids (Model 2A)                                |
+ | srallyc     | Model 2A-CRX | Sega Rally Championship                              |
+ | srallycb    | Model 2A-CRX | Sega Rally Championship (Rev B)                      |
+ | srallyp     | Model 2A-CRX | Sega Rally Pro Drivin'                               |
+ | skytargt    | Model 2A-CRX | Sky Target                                           |
+ | vcop2       | Model 2A-CRX | Virtua Cop 2                                         |
+ | vf2o        | Model 2A-CRX | Virtua Fighter 2                                     |
+ | vf2a        | Model 2A-CRX | Virtua Fighter 2 (Rev A)                             |
+ | vf2b        | Model 2A-CRX | Virtua Fighter 2 (Rev B)                             |
+ | vf2         | Model 2A-CRX | Virtua Fighter 2.1                                   |
+ | zerogunaj   | Model 2A-CRX | Zero Gunner (Jap, Model 2A)                          |
+ | zeroguna    | Model 2A-CRX | Zero Gunner (Model 2A)                               |
+ | doa         | Model 2B-CRX | Dead or Alive (Model 2B)                             |
+ | dynabb97    | Model 2B-CRX | Dynamite Baseball 97 (Rev A)                         |
+ | dynmcopb    | Model 2B-CRX | Dynamite Cop (Model 2B)                              |
+ | dyndek2b    | Model 2B-CRX | Dynamite Deka 2 (Model 2B)                           |
+ | fvipers     | Model 2B-CRX | Fighting Vipers                                      |
+ | gunblade    | Model 2B-CRX | Gunblade NY                                          |
+ | indy500d    | Model 2B-CRX | Indianapolis 500 / Indy 500 (Rev A, Deluxe)          |
+ | indy500     | Model 2B-CRX | Indianapolis 500 / Indy 500 (Rev A, Twin, Newer Rev) |
+ | indy500to   | Model 2B-CRX | Indianapolis 500 / Indy 500 (Rev A, Twin, Older Rev) |
+ | lastbrnx    | Model 2B-CRX | Last Bronx (Export, Rev A)                           |
+ | lastbrnxj   | Model 2B-CRX | Last Bronx (Jap, Rev A)                              |
+ | lastbrnxu   | Model 2B-CRX | Last Bronx (USA, Rev A)                              |
+ | overrevb    | Model 2B-CRX | Over Rev (Model 2B)                                  |
+ | pltkids     | Model 2B-CRX | Pilot Kids (Model 2B)                                |
+ | rchase2     | Model 2B-CRX | Rail Chase 2                                         |
+ | schamp      | Model 2B-CRX | Sonic Championship                                   |
+ | sfight      | Model 2B-CRX | Sonic the Fighters                                   |
+ | sgt24h      | Model 2B-CRX | Super GT 24H                                         |
+ | vstrikro    | Model 2B-CRX | Virtua Striker                                       |
+ | vstriker    | Model 2B-CRX | Virtua Striker (Rev A)                               |
+ | vonj        | Model 2B-CRX | Cyber Troopers Virtual-On (Japan)                    |
+ | von         | Model 2B-CRX | Cyber Troopers Virtual-On (USA)                      |
+ | zerogunj    | Model 2B-CRX | Zero Gunner (Jap, Model 2B)                          |
+ | zerogun     | Model 2B-CRX | Zero Gunner (Model 2B)                               |
+ | bel         | Model 2C-CRX | Behind Enemy Lines                                   |
+ | dynmcopc    | Model 2C-CRX | Dynamite Cop (Model 2C)                              |
+ | hotd        | Model 2C-CRX | House of the Dead                                    |
+ | overrev     | Model 2C-CRX | Over Rev                                             |
+ | skisuprg    | Model 2C-CRX | Sega Ski Super G                                     |
+ | stcc        | Model 2C-CRX | Sega Touring Car Championship                        |
+ | stcca       | Model 2C-CRX | Sega Touring Car Championship (Rev A)                |
+ | stccb       | Model 2C-CRX | Sega Touring Car Championship (Rev B)                |
+ | segawski    | Model 2C-CRX | Sega Water Ski                                       |
+ | topskatr    | Model 2C-CRX | Top Skater                                           |
+ | topskatrj   | Model 2C-CRX | Top Skater (Jap)                                     |
+ | topskatru   | Model 2C-CRX | Top Skater (USA)                                     |
+ | waverunr    | Model 2C-CRX | Wave Runner                                          |
