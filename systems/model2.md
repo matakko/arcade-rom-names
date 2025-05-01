@@ -1,6 +1,6 @@
 # List Sega Model 2:
-- Merged [](#merged-list)
-- Non Merged [](#non-merged-list)
+- Merged [List](#merged-list)
+- Non Merged [List](#non-merged-list)
 - List Raw Txt [List Txt](https://github.com/matakko/rom-name/blob/main/txt/model2-name.txt)
 
 | Model 2 | Model 2A-CRX | Model 2B-CRX | Model 2C-CRX |
