@@ -1,7 +1,7 @@
 # List Sega Model 3 names: 
-- Merged : [link](#Merged-list)
-- Non Merged : [link](#Non-Merged-list)
-- List Raw Txt [List Txt](https://github.com/matakko/rom-name/blob/main/txt/model3-name.txt)
+- Merged : [List](#Merged-list)
+- Non Merged : [List](#Non-Merged-list)
+- List Raw Txt [Link](https://github.com/matakko/rom-name/blob/main/txt/model3-name.txt)
 
 List of games
 | Step 1.0     | Step 1.5 | Step 2.0 | Step 2.1 |
