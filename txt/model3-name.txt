@@ -1,3 +1,50 @@
+List of games
+Step 1.0
+
+    Boat Race GP (1996)
+    Virtua Fighter 3 (1996)
+    Virtua Fighter 3tb (1997)
+    Sega Bass Fishing/Get Bass (1997)
+
+Step 1.5
+
+    Scud Race / Super GT (1996)
+    Le Mans 24 (1997)
+    Scud Race Plus (1997)
+    The Lost World: Jurassic Park (1997)
+    The Lost World: Jurassic Park Special (1997)
+    Virtua Striker 2 (1997)
+    Virtua Striker 2 Version '98 (1998)
+
+Step 2.0
+
+    Harley Davidson & L.A. Riders (1997)
+    Fighting Vipers 2 (1998)
+    Sega Rally 2 (1998)
+    Ski Champ (1998)
+    Virtua Striker 2 (1997)
+    Virtua Striker 2 Version '98 (1998)
+    Virtua Striker 2 Version '99 (1999)
+    Virtua Striker 2 Version '99.1 (1999)
+    Virtual-On Oratorio Tangram (1998)
+
+Step 2.1
+
+    Daytona USA 2 (1998)
+    Daytona USA 2: Power Edition (1998)
+    Dirt Devils (1998)
+    L.A. Machineguns (1998)
+    Star Wars Trilogy Arcade (1998)
+    The Ocean Hunter (1998)
+    Spike Out (1998)
+    Spikeout: Final Edition (1999)
+    Emergency Call Ambulance (1999)
+    Magical Truck Adventure (1999)
+    Virtua Striker 2 Version '99 (1999)
+
+
+
+
  # Model 3 Merged names  
 
 
@@ -110,3 +157,9 @@
 |  vs299b     |    |     |
 |  vs299j     | Japan, Revision B   |   Virtua Striker 2 '99.1      |
 |  vs2v991    | Export, USA, Revision B   | Virtua Striker 2 '99.1    |
+
+
+
+
+
+
