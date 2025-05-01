@@ -1,9 +1,9 @@
 # List Sega Model 3 names: 
-- Merged : [link](#List-Model-3-Merged-names)
-- Non Merged : [link](#List-Model-3-Non-Merged-names)
+- Merged : [link](#Merged-list)
+- Non Merged : [link](#Non-Merged-list)
 - List Raw Txt [List Txt](https://github.com/matakko/rom-name/blob/main/txt/model3-name.txt)
 
-## List Model 3 Merged names:
+## Merged list:
 [Back to the Top](#List-Sega-Model-3-names)
 
 | Roms     | Names |
@@ -41,8 +41,8 @@
 
 
 
-## List Model 3 Non Merged names: 
-[Back to the Top](##list-sega-model-3-names)
+## Non Merged names: 
+[Back to the Top](#list-sega-model-3-names)
 
 
 |     Roms       |   Version       | Names  | 
