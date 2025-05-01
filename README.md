@@ -8,6 +8,7 @@ This repos aims to help to find names with arcade roms or scummvm game with thei
 ## Sega Model 2
 
 - List Sega Model 2 names [Model 2](https://github.com/matakko/rom-name/blob/main/systems/model2.md)
+- Merged [list](https://github.com/matakko/rom-name/blob/main/systems/model2.md#merged-list) / Non Merged [list](https://github.com/matakko/rom-name/blob/main/systems/model2.md#non-merged-list)
 - raw [txt](https://github.com/matakko/rom-name/blob/main/txt/model2-name.txt)
 
 ## Sega Model 3
