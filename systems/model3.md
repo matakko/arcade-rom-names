@@ -78,8 +78,8 @@ List of games
 |  lamachin   | Japan                             | L.A. Machineguns                  |
 |  lemans24   | Japan, Revision B                 | Le Mans 24                        |
 |  lostwsga   | Japan, Revision A                 | The Lost World: Jurassic Park     |
-|  lostwsgo   |                                   |                                   |
-|  lostwsgp   |  Location Test                    | The Lost World: Jurassic Park     |
+|  lostwsgo   | (older)                           | The Lost World: Jurassic Park     |
+|  lostwsgp   | Location Test                     | The Lost World: Jurassic Park     |
 |  magtruck   | Japan                             | Magical Truck Adventure           |
 |  mgtrkbad   | Japan                             | Magical Truck Adventure           |
 |  oceanhun   | Japan                             | The Ocean Hunter                  |
