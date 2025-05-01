@@ -6,17 +6,8 @@
 List of games
 | Step 1.0     | Step 1.5 | Step 2.0 | Step 2.1 |
 | ----------- | -----------| ----------- | -----------| 
-| Boat Race GP (1996) |    Scud Race / Super GT (1996) | Harley Davidson & L.A. Riders (1997) | Daytona USA 2 (1998)  | 
-| Virtua Fighter 3 (1996) | Le Mans 24 (1997) |    Fighting Vipers 2 (1998) | Daytona USA 2: Power Edition (1998) | 
-| Virtua Fighter 3tb (1997) | Scud Race Plus (1997) | Sega Rally 2 (1998) | Dirt Devils (1998)  | 
-| Sega Bass Fishing/Get Bass (1997) |     The Lost World: Jurassic Park (1997) |  Ski Champ (1998) | L.A. Machineguns (1998) | 
- | |  The Lost World: Jurassic Park Special (1997)  | Virtua Striker 2 (1997) | Star Wars Trilogy Arcade (1998) | 
- | | Virtua Striker 2 (1997) | Virtua Striker 2 Version '98 (1998) | The Ocean Hunter (1998) | 
- | |  Virtua Striker 2 Version '98 (1998)  | Virtua Striker 2 Version '99 (1999) | Spike Out (1998)  | 
- | |  | Virtua Striker 2 Version '99.1 (1999) | Spikeout: Final Edition (1999)  | 
- | |  | Virtual-On Oratorio Tangram (1998) |   Emergency Call Ambulance (1999)  | 
- | |  | | Magical Truck Adventure (1999)  |
- | |  | | Virtua Striker 2 Version '99 (1999)  |
+| - Boat Race GP (1996) <br /> - Virtua Fighter 3 (1996) <br /> - Virtua Fighter 3tb (1997) <br /> - Sega Bass Fishing/Get Bass (1997) | - Scud Race / Super GT (1996) <br /> - Le Mans 24 (1997) <br /> - Scud Race Plus (1997) <br /> - The Lost World: Jurassic Park (1997) <br /> - The Lost World: Jurassic Park Special (1997) <br /> - Virtua Striker 2 (1997) <br /> - Virtua Striker 2 Version '98 (1998)  | - Harley Davidson & L.A. Riders (1997) <br /> - Fighting Vipers 2 (1998) <br /> - Sega Rally 2 (1998) <br /> - Ski Champ (1998) <br /> - Virtua Striker 2 (1997) <br /> - Virtua Striker 2 Version '98 (1998) <br /> - Virtua Striker 2 Version '99 (1999) <br /> - Virtua Striker 2 Version '99.1 (1999) <br /> - Virtual-On Oratorio Tangram (1998) | - Daytona USA 2 (1998) <br /> - Daytona USA 2: Power Edition (1998) <br /> - Dirt Devils (1998) <br /> - L.A. Machineguns (1998) <br /> - Star Wars Trilogy Arcade (1998) <br /> - The Ocean Hunter (1998) <br /> - Spike Out (1998) <br /> - Spikeout: Final Edition (1999) <br /> - Emergency Call Ambulance (1999) <br /> - Magical Truck Adventure (1999) <br /> - Virtua Striker 2 Version '99 (1999)  |
+
 
 
 ## Merged list:
