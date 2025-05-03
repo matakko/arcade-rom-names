@@ -5,7 +5,7 @@
 
 | [Model 2](#model-2) | [Model 2A-CRX](#model-2a) | [Model 2B-CRX](#model-2b) | [Model 2C-CRX](#model-2c) |
 | ------------------- | ------------------------- | ------------------------- | ------------------------- |
-| - Daytona USA (1993) <br /> - Daytona USA Deluxe '93 (1993) <br /> - Desert Tank (1994) <br /> - Virtua Cop (1994) | - Virtua Fighter 2 (1994) <br /> - Manx TT Superbike (1995) <br /> - Sega Rally Championship (1995) <br /> - Sky Target (1995) <br /> - Virtua Cop 2 (1995) <br /> - Dead or Alive (1996) <br /> - Dynamite Cop (1996) <br /> - Virtua Fighter 2.1 (1996) <br /> - Motor Raid (1997) <br /> - Zero Gunner (1997) <br /> - Hanguk Pro Yagu 98 (1998) <br /> - Pilot Kids (1999) <br /> - Air Walkers (unreleased)   | - Fighting Vipers (1995) <br /> - Gunblade NY (1995) <br /> - Indy 500 (1995) <br /> - Rail Chase 2 (1995) <br /> - Virtua Striker (1995) <br /> - Dead or Alive (1996) <br /> - Dynamite Baseball (1996) <br /> - Dynamite Cop (1996) <br /> - Last Bronx (1996) <br /> - Pilot Kids (1999) <br /> - Sonic the Fighters (1996) <br /> - Super GT 24H (1996) <br /> - Cyber Troopers Virtual-On (1996) <br /> - Dynamite Baseball 97 (1997) <br /> - Zero Gunner (1997)  | - Dynamite Cop (1996) <br /> - Over Rev (1997) <br /> - Power Sled (1996) <br /> - Sega Ski Super G (1996) <br /> - Sega Touring Car Championship (1996) <br /> - Sega Water Ski (1996) <br /> - Wave Runner (1996) <br /> - The House of the Dead (1997) <br /> - Top Skater (1997) <br /> - Behind Enemy Lines (1998)
+| - Daytona USA (1993) <br /> - Daytona USA Deluxe '93 (1993) <br /> - Desert Tank (1994) <br /> - Virtua Cop (1994) | - Dead or Alive (1996) <br /> - Dynamite Cop (1996) <br /> - Hanguk Pro Yagu 98 (1998) <br /> - Manx TT Superbike (1995) <br /> - Motor Raid (1997) <br /> - Pilot Kids (1999) <br /> - Sega Rally Championship (1995) <br /> - Sky Target (1995) <br /> - Virtua Cop 2 (1995) <br /> - Virtua Fighter 2 (1994) <br /> - Virtua Fighter 2.1 (1996) <br /> - Zero Gunner (1997) | - Fighting Vipers (1995) <br /> - Gunblade NY (1995) <br /> - Indy 500 (1995) <br /> - Rail Chase 2 (1995) <br /> - Virtua Striker (1995) <br /> - Dead or Alive (1996) <br /> - Dynamite Baseball (1996) <br /> - Dynamite Cop (1996) <br /> - Last Bronx (1996) <br /> - Pilot Kids (1999) <br /> - Sonic the Fighters (1996) <br /> - Super GT 24H (1996) <br /> - Cyber Troopers Virtual-On (1996) <br /> - Dynamite Baseball 97 (1997) <br /> - Zero Gunner (1997)  | - Dynamite Cop (1996) <br /> - Over Rev (1997) <br /> - Power Sled (1996) <br /> - Sega Ski Super G (1996) <br /> - Sega Touring Car Championship (1996) <br /> - Sega Water Ski (1996) <br /> - Wave Runner (1996) <br /> - The House of the Dead (1997) <br /> - Top Skater (1997) <br /> - Behind Enemy Lines (1998)
 
 
 
@@ -18,8 +18,7 @@
  | von       |  Cyber Troopers Virtual-On     |  
  | daytona   |  Daytona USA                   |  
  | doa       |  Dead or Alive                 |  
- | desert    |  Desert Tank                   |  
- |           |  Dynamite Baseball             |    
+ | desert    |  Desert Tank                   |    
  | dynabb97  |  Dynamite Baseball 97          |  
  | dynamcop  | Dynamite Cop                   |  
  | fvipers   |  Fighting Vipers               |  
@@ -30,7 +29,6 @@
  | motoraid  |  Motor Raid                    |  
  | overrev   |  Over Rev                      |  
  | pltkids   |  Pilot Kids                    |  
- |           |  Power Sled                    |  
  | rchase2   |  Rail Chase 2                  |  
  | srallyc   |  Sega Rally Championship       |  
  | skisuprg  |  Sega Ski Super G              |  
@@ -74,7 +72,8 @@
 [Back to the Top](#list-sega-model-2)
 
  |     Roms    |  System      |    Names                                             |                       
- | ----------- | ------------ | ---------------------------------------------------- |        
+ | ----------- | ------------ | ---------------------------------------------------- |
+ |             | Model 2A-CRX | Air Walkers (Unreleased)                             |
  | doaa        | Model 2A-CRX | Dead or Alive (Model 2A)                             |
  | dynamcop    | Model 2A-CRX | Dynamite Cop (Model 2A)                              |
  | dyndeka2    | Model 2A-CRX | Dynamite Deka 2 (Model 2A)                           |
@@ -102,6 +101,7 @@
  |     Roms    |  System      |    Names                                             |                       
  | ----------- | ------------ | ---------------------------------------------------- |  
  | doa         | Model 2B-CRX | Dead or Alive (Model 2B)                             |
+ |             | Model 2B-CRX | Dynamite Baseball                                    |
  | dynabb97    | Model 2B-CRX | Dynamite Baseball 97 (Rev A)                         |
  | dynmcopb    | Model 2B-CRX | Dynamite Cop (Model 2B)                              |
  | dyndek2b    | Model 2B-CRX | Dynamite Deka 2 (Model 2B)                           |
@@ -136,6 +136,7 @@
  | dynmcopc    | Model 2C-CRX | Dynamite Cop (Model 2C)                              |
  | hotd        | Model 2C-CRX | House of the Dead                                    |
  | overrev     | Model 2C-CRX | Over Rev                                             |
+ |             | Model 2C-CRX | Power Sled                                           |
  | skisuprg    | Model 2C-CRX | Sega Ski Super G                                     |
  | stcc        | Model 2C-CRX | Sega Touring Car Championship                        |
  | stcca       | Model 2C-CRX | Sega Touring Car Championship (Rev A)                |
