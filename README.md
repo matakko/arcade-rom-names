@@ -17,6 +17,12 @@ This repos aims to help to find names with arcade roms or scummvm game with thei
 - Merged [list](https://github.com/matakko/rom-name/blob/main/systems/model3.md#merged-list) / Non Merged [list](https://github.com/matakko/rom-name/blob/main/systems/model3.md#non-merged-list)
 - raw [txt](https://github.com/matakko/rom-name/blob/main/txt/model3-name.txt)
 
+## Sega Naomi 2
+
+- List Sega Naomi 2 names [Naomi 2](https://github.com/matakko/rom-name/blob/main/systems/naomi2.md)
+- Merged [list](https://github.com/matakko/rom-name/blob/main/systems/naomi2.md#merged-list) / Non Merged [list](https://github.com/matakko/rom-name/blob/main/systems/naomi2.md#non-merged-list)
+- raw [txt](https://github.com/matakko/rom-name/blob/main/txt/naomi2-name.txt)
+
 ## Scummvm
 
 - List .scummvm names [Scummvm](https://github.com/matakko/rom-name/blob/main/systems/scummvm.md)
