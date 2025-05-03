@@ -12,20 +12,20 @@
 
 ## Bios
 - naomi2.zip
-` epr-23605.ic27         `
-` epr-23605a.ic27        `
-` epr-23605b.ic27        `
-` epr-23605c.ic27        `
-` epr-23605c_multi.ic27  `
-` epr-23607.ic27         `
-` epr-23607b.ic27        `
-` epr-23607c.ic27        `
-` epr-23608.ic27         `
-` epr-23608a.ic27        `
-` epr-23608b.ic27        `
-` epr-23608c.ic27        `
-` epr-23609b.ic27        `
-` main_eeprom.bin        `
+` epr-23605.ic27         ` <br /> 
+` epr-23605a.ic27        ` <br /> 
+` epr-23605b.ic27        ` <br /> 
+` epr-23605c.ic27        ` <br /> 
+` epr-23605c_multi.ic27  ` <br /> 
+` epr-23607.ic27         ` <br /> 
+` epr-23607b.ic27        ` <br /> 
+` epr-23607c.ic27        ` <br /> 
+` epr-23608.ic27         ` <br /> 
+` epr-23608a.ic27        ` <br /> 
+` epr-23608b.ic27        ` <br /> 
+` epr-23608c.ic27        ` <br /> 
+` epr-23609b.ic27        ` <br /> 
+` main_eeprom.bin        ` <br /> 
 ` x76f100_eeprom.bin     `
 
 
