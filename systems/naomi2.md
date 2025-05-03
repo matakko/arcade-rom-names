@@ -14,6 +14,7 @@
 |   Roms    | GD ROM    | Names                                        |         
 | --------- | --------- | -------------------------------------------- | 
 | beachspi  | GDS-0014  | Beach Spikers (2001)                         |
+| clubkrt   |           | Club Kart (2001)                             |
 | clubk2k3  |           | Club Kart: European Session (2003)           |
 | clubkprz  |           | Club Kart Prize (2003)                       |
 | initd     | GDS-0020B | Initial D Arcade Stage (2002)                |
