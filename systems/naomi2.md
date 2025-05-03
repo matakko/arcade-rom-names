@@ -11,7 +11,7 @@
  * = Released on both Cartridge and GD-ROM . 
 
 ## Bios
-- naomi2.zip
+- naomi2.zip  <br /> 
 ` epr-23605.ic27         ` <br /> 
 ` epr-23605a.ic27        ` <br /> 
 ` epr-23605b.ic27        ` <br /> 
