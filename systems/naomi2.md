@@ -1,4 +1,6 @@
 # Naomi 2
+
+- Bios [List](#bios)
 - Merged [List](#merged-list)
 - Non Merged [List](#non-merged-list)
 - List Raw txt : [Link](https://github.com/matakko/rom-name/blob/main/txt/naomi2-name.txt)
@@ -7,6 +9,25 @@
 | ---------------------------------------- | ------------------------------------ | ---------------------------------------------------------- |
 | - Club Kart (2001) <br /> - Club Kart: European Session (2002) <br /> - Club Kart Prize (2003) <br /> - Jet Squadron (2000) <br /> - King of Route 66 (2002) <br /> - Sega Driving Simulator (2002) <br /> - Soul Surfer (2002) <br /> - Virtua Fighter 4 (2001) * <br /> - Virtua Fighter 4 Evolution (2002) * <br /> - Virtua Fighter 4 Final Tuned (2004) * <br /> - Virtua Striker III (2001) * <br /> - Wild Riders (2001) | - Beach Spikers: Virtua Beach Volleyball (2001) <br /> - Club Kart Cycraft (2003) <br />  - Initial D: Arcade Stage (2002) <br /> - Initial D: Arcade Stage Ver. 2 (2003) <br /> - Initial D Arcade Stage Version 3 (2004) <br /> - Initial D Arcade Stage Version 3 Cycraft Edition (2005) <br /> - Virtua Fighter 4 (2001) * <br /> - Virtua Fighter 4 Evolution (2002) * <br /> - Virtua Fighter 4 Evolution Ver. B (2003) <br /> - Virtua Fighter 4 Final Tuned (2004) * <br />  - Virtua Fighter 4 Ver. B (2001) <br /> - Virtua Fighter 4 Ver. C (2002) <br /> - Virtua Striker III (2001) * | - World Club Champion Football European Clubs 2004-2005 (2005) <br /> - World Club Champion Football European Clubs 2005-2006 (2006) <br /> - World Club Champion Football Serie A 2001-2002 (2002) <br /> - World Club Champion Football Serie A 2001-2002 Ver.2 (2003) <br /> - World Club Champion Football Serie A 2002-2003 (2003) <br /> - World Club Champion Football Serie A 2002-2003 Ver.2 (2004) |
  * = Released on both Cartridge and GD-ROM . 
+
+## Bios
+- naomi2.zip
+` epr-23605.ic27         `
+` epr-23605a.ic27        `
+` epr-23605b.ic27        `
+` epr-23605c.ic27        `
+` epr-23605c_multi.ic27  `
+` epr-23607.ic27         `
+` epr-23607b.ic27        `
+` epr-23607c.ic27        `
+` epr-23608.ic27         `
+` epr-23608a.ic27        `
+` epr-23608b.ic27        `
+` epr-23608c.ic27        `
+` epr-23609b.ic27        `
+` main_eeprom.bin        `
+` x76f100_eeprom.bin     `
+
 
 ## Merged list:
 [Back to the Top](#naomi-2)	
