@@ -17,6 +17,12 @@ This repos aims to help to find names with arcade roms or scummvm game with thei
 - Merged [list](https://github.com/matakko/rom-name/blob/main/systems/model3.md#merged-list) / Non Merged [list](https://github.com/matakko/rom-name/blob/main/systems/model3.md#non-merged-list)
 - raw [txt](https://github.com/matakko/rom-name/blob/main/txt/model3-name.txt)
 
+## Sega Hikaru
+
+- List Sega Hikaru names [Hikaru](https://github.com/matakko/rom-name/blob/main/systems/hikaru.md)
+- Roms [list](https://github.com/matakko/rom-name/blob/main/systems/hikaru.md#roms-list) 
+- raw [txt](https://github.com/matakko/rom-name/blob/main/txt/hikaru-name.txt)
+
 ## Sammy Atomiswave
 
 - List Sammy Atomiswave names [Atomiswave](https://github.com/matakko/rom-name/blob/main/systems/atomiswave.md)
