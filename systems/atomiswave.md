@@ -4,6 +4,13 @@
 - List Raw txt : [Link](https://github.com/matakko/rom-name/blob/main/txt/atomiswave-name.txt)
 
 
+|  Normal Cab |  Dedicated Cab |  Announced / Unreleased   | 
+| ---------- | ----------------- | ------------------------------ |  
+| - Animal Basket (2005) <br />   -  Block Pong-Pong (2005) <br />  - Demolish Fist (2003) <br />    - Dolphin Blue (2003) <br />    - Guilty Gear X Ver. 1.5 (2003) <br />    - Guilty Gear Isuka (2004) <br />    - Hokuto no Ken (2005) <br />    - Knights of Valour: The Seven Spirits (2003) <br />    - Metal Slug 6 (2006) <br />   - Miracle Stadium (2005) <br />      - NeoGeo Battle Coliseum (2005) <br />   - Samurai Spirits Tenkaichi Kenkakuden (2005) <br />    - The King of Fighters Neowave (2004) <br />    - The King of Fighters XI (2005) <br />    - The Rumble Fish (2004) <br />    - The Rumble Fish 2 (2005) <br />  - WaiWai Drive (2005) <br />   |  - Chase 1929 (2004) <br />    - Dirty Pigskin Football (2004) <br />    - Extreme Hunting (2005) <br />    - Extreme Hunting 2 Tournament Edition (2006) <br />    - Faster Than Speed (2004) <br />    - NS Keiba Horse Racing (2005) <br />    - Maximum Speed (2003) <br />    - Ranger Mission (2004) <br />    - Salaryman Kintarou (2004) <br />    - Sega Bass Fishing Challenge (2009) <br />    - Sega Clay Challenge (2009) <br />    - Sports Shooting USA (2003) <br /> | - Force Five (2004) * <br />    - Kenju (2005) * <br />    - Premier Eleven (2003)  <br />    - Sammy Vs Capcom (2004) <br />   - Sushi Bar (2003) |
+
+* = may have been dumped from prototype
+
+
 ## Bios:  
 [Back to the Top](#atomiswave)
  
