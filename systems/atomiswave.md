@@ -6,7 +6,8 @@
 
 ## Bios:  
 [Back to the Top](#atomiswave)
-awbios.zip         <br />
+ 
+awbios.zip    
 `bios0.ic23       `<br />
 `bios1.ic23       `<br />
 `fpr-24363.ic48   `<br />
@@ -16,7 +17,7 @@ awbios.zip         <br />
 [Back to the Top](#atomiswave)
 
 
-| Roms         | Parent            |  Version / Region        | Name                                                              |    Widescreen Cheats Codes                                                                    |
+| Roms         | Parent            |  Version / Region        | Name                                                              |    Widescreen Cheat Codes                                                                    |
 | ---------    | --------          |  ----------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | 
 | anmlbskt     |	awbios         | 24 Jan 2005              | Animal Basket / Hustle Tamaire Kyousou (2005)                       | ???                                                                                           |
 | anmlbskta    |	anmlbskt       | 19 Jan 2005              | Animal Basket / Hustle Tamaire Kyousou (2005)                       | ???                                                                                           |
