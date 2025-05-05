@@ -3,13 +3,20 @@
 
 
 # Bios
+[Back to the Top](#system-sp)
 
-- segasp.zip:
-
-
-
+- segasp.zip:  <br />
+`epr-24236a.ic50      `   <br />
+`epr-24328.ic50       `   <br />
+`epr-24328a.ic50      `   <br />
+`mb_eeprom_exp.ic54s  `   <br />
+`mb_eeprom_us.ic54s   `   <br />
+`mb_serial.ic57       `   <br />
+`net_eeprom.ic74s     `   <br />
+`net_firm_119.ic72    `   <br />
 
 ## Roms list
+[Back to the Top](#system-sp)
  
 | Roms         | Parent    | CHD        |  Version / Region        | Name                                                                |
 | ------------ | --------- | ---------- | ------------------------ | ------------------------------------------------------------------- | 
