@@ -1,5 +1,8 @@
 # Hikaru
+
+
 ## Bios
+[Back to the Top](#hikaru)
 - hikaru.zip     <br />
 `epr-21904.ic94      `<br />
 `epr-23400.ic94      `<br />
@@ -7,6 +10,7 @@
 `prot_bot.ic94       `<br />
 
 ## Roms List
+[Back to the Top](#hikaru)
 
 |   Roms    | Parent    | Version  | Names                                        |         
 | --------- | --------- | -------  |--------------------------------------------- | 
