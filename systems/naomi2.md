@@ -51,8 +51,8 @@
 | vf4evoct  |           | Virtua Fighter 4 Evolution (2002)            |
 | vf4evo    | GDS-0024C | Virtua Fighter 4 Evolution Ver. B (2003)     |
 | vf4tuned  | GDS-0036F | Virtua Fighter 4 Final Tuned (2004)          |
-| vstrik3c  |           | Virtua Striker III (2001)                    |
 | vstrik3   | GDS-0006  | Virtua Striker III (2001)                    |
+| vstrik3c  |           | Virtua Striker III (2001)                    |
 | wldrider  |           | Wild Riders (2001)                           |
 
 
@@ -62,31 +62,32 @@
 ## NAOMI 2 Cartridge:
 [Back to the Top](#naomi-2)
 
-| Roms      | Parent   | Version                   | Name                                                                | Widescreen Cheat Codes  | 
-| --------- | -------- | ------------------------  | ------------------------------------------------------------------- | ----------------------- | 
-| clubkrt   | naomi2   | Rev D                     |  Club Kart: European Session                                        |  ???                    | 
-| clubkrta  | clubkrt  | Rev A                     |  Club Kart: European Session                                        |  ???                    | 
-| clubkrtc  | clubkrt  | Rev C                     |  Club Kart: European Session                                        |  ???                    | 
-| clubkrtd  | clubkrt  | Rev D, Alt                |  Club Kart: European Session                                        |  ???                    | 
-| clubkrte  | clubkrt  | Old clubkrto              |  Club Kart: European Session                                        |  ???                    | 
-| clubkrto  | clubkrt  |                           |  Club Kart: European Session                                        |  ???                    | 
-| clubk2k3  | naomi2   | Rev A, 2003               |  Club Kart: European Session                                        |  ???                    | 
-| clubk2kp  | clubk2k3 | 2003, Prototype, Set 1    |  Club Kart: European Session                                        |  ???                    | 
-| clubk2kpa | clubk2k3 | 2003, Prototype, Set 2    |  Club Kart: European Session                                        |  ???                    | 
-| clubkprz  | naomi2   | Export, Japan             |  Club Kart Prize                                                    |  ???                    | 
-| clubkpzb  | naomi2   | Rev B, Export, Japan      |  Club Kart Prize Ver. B                                             |  ???                    | 
-| clubkpzbp | naomi2   | Rev B, Prototype          |  Club Kart Prize                                                    |  ???                    | 
-|           |          |                           |  Jet Squadron                                                       |  ???                    | 
-| kingrt66  | naomi2   | Rev A                     |  The King of Route 66                                               |  ???                    | 
-| kingrt66p | kingrt66 | Prototype                 |  The King of Route 66                                               |  ???                    | 
-| sgdrvsim  | naomi2   |                           |  Sega Driving Simulator                                             |  ???                    | 
-| soulsurf  | naomi2   | Rev A                     |  Soul Surfer                                                        |  028962C8 3FE38E39      | 
-| vf4cart   | naomi2   | World                     |  Virtua Fighter 4                                                   |  ???                    |
-| vf4evoct  | naomi2   | World                     |  Virtua Fighter 4 Evolution                                         |  ???                    |
-| vstrik3c  | naomi2   | Rev B, World              |  Virtua Striker 3                                                   |  ???                    |
-| vstrik3cb | naomi2   | Rev B ,USA, EXP, KOR, AUS |  Virtua Striker 3                                                   |  ???                    |
-| vstrik3co | vstrik3c | World                     |  Virtua Striker 3                                                   |  ???                    |
-| wldrider  | naomi2   |                           |  Wild Riders                                                        |  ???                    |
+| Roms      | Parent   | Version                      | Name                                                                | Widescreen Cheat Codes  | 
+| --------- | -------- | ---------------------------- | ------------------------------------------------------------------- | ----------------------- | 
+| clubk2k3  | naomi2   | Rev A, 2003                  |  Club Kart: European Session                                        |  ???                    | 
+| clubk2kf  | naomi2   | Rev A, 2003, Not Protected   |  Club Kart: European Session                                        |  ???                    | 
+| clubk2kp  | clubk2k3 | 2003, Prototype, Set 1       |  Club Kart: European Session                                        |  ???                    | 
+| clubk2kpa | clubk2k3 | 2003, Prototype, Set 2       |  Club Kart: European Session                                        |  ???                    | 
+| clubkprz  | naomi2   | Rev A, Export, Japan         |  Club Kart Prize                                                    |  ???                    | 
+| clubkpzb  | naomi2   | Ver. B, Export, Japan        |  Club Kart Prize Ver. B                                             |  ???                    | 
+| clubkpzbp | naomi2   | Ver. B, Prototype            |  Club Kart Prize Ver. B                                             |  ???                    | 
+| clubkrt   | naomi2   | Rev D                        |  Club Kart: European Session                                        |  ???                    | 
+| clubkrta  | clubkrt  | Rev A                        |  Club Kart: European Session                                        |  ???                    | 
+| clubkrtc  | clubkrt  | Rev C                        |  Club Kart: European Session                                        |  ???                    | 
+| clubkrtd  | clubkrt  | Rev D, Alt                   |  Club Kart: European Session                                        |  ???                    | 
+| clubkrte  | clubkrt  |                              |  Club Kart: European Session                                        |  ???                    | 
+| clubkrto  | clubkrt  |                              |  Club Kart: European Session                                        |  ???                    | 
+|           |          |                              |  Jet Squadron                                                       |  ???                    | 
+| kingrt66  | naomi2   | Rev A                        |  The King of Route 66                                               |  ???                    | 
+| kingrt66p | kingrt66 | Prototype                    |  The King of Route 66                                               |  ???                    | 
+| sgdrvsim  | naomi2   |                              |  Sega Driving Simulator                                             |  ???                    | 
+| soulsurf  | naomi2   | Rev A                        |  Soul Surfer                                                        |  028962C8 3FE38E39      | 
+| vf4cart   | naomi2   | World                        |  Virtua Fighter 4                                                   |  ???                    |
+| vf4evoct  | naomi2   | World                        |  Virtua Fighter 4 Evolution                                         |  ???                    |
+| vstrik3c  | naomi2   | Rev B, World                 |  Virtua Striker 3                                                   |  ???                    |
+| vstrik3cb | naomi2   | Rev B ,USA, EXP, KOR, AUS    |  Virtua Striker 3                                                   |  ???                    |
+| vstrik3co | vstrik3c | World                        |  Virtua Striker 3                                                   |  ???                    |
+| wldrider  | naomi2   |                              |  Wild Riders                                                        |  ???                    |
 
 
 
@@ -99,6 +100,8 @@
 | beachspi  | naomi2   | GDS-0014   |                         |  Beach Spikers                                                      | 02065A7C 44558000       |
 | clubkcyc  | naomi2   | GDS-0029A  | Rev A                   |  Club Kart Cycraft Edition                                          | ???                     |
 | clubkcyco | clubkcyc | GDS-0029   |                         |  Club Kart Cycraft Edition                                          | ???                     |
+| inidv3ca  | inidv3cy | GDS-0039A  | Rev A, Export           |  Initial D Arcade Stage Version 3 Cycraft Edition                   | ???                     |
+| inidv3cy  | naomi2   | GDS-0039B  | Rev B, Export           |  Initial D Arcade Stage Version 3 Cycraft Edition                   | ???                     |
 | initd     | naomi2   | GDS-0020B  | Rev B, Japan            |  Initial D Arcade Stage Ver. B                                      | 02155434 3FE38E39       |
 | initdexp  | naomi2   | GDS-0025A  | Rev A, Export           |  Initial D Arcade Stage                                             | 02159674 3FE38E39       |
 | initdexpo | initdexp | GDS-0025   | Export                  |  Initial D Arcade Stage                                             | 02159634 3FE38E39       |
@@ -110,17 +113,16 @@
 | initdv3e  | naomi2   | GDS-0033   | Export                  |  Initial D Arcade Stage Version 3                                   | 021D0B34 3FE38E39       |
 | initdv3j  | naomi2   | GDS-0032C  | Rev C, Japan            |  Initial D Arcade Stage Version 3                                   | 021D7C74 3FE38E39       |
 | initdv3jb | initdv3j | GDS-0032B  | Rev B, Japan            |  Initial D Arcade Stage Version 3                                   | 021D7774 3FE38E39       |
-| inidv3ca  | inidv3cy | GDS-0039A  | Rev A                   |  Initial D Arcade Stage Version 3 Cycraft Edition                   | ???                     |
-| inidv3cy  | naomi2   | GDS-0039B  | Rev B                   |  Initial D Arcade Stage Version 3 Cycraft Edition                   | ???                     |
-| vf4       | naomi2   | GDS-0012C  | Rev C                   |  Virtua Fighter 4 Ver. C                                            | ???                     |
-| vf4b      | vf4      | GDS-0012B  | Rev B                   |  Virtua Fighter 4 Ver. B                                            | ???                     |
+| vf4       | naomi2   | GDS-0012C  | Ver. C                  |  Virtua Fighter 4 Ver. C                                            | ???                     |
+| vf4b      | vf4      | GDS-0012B  | Rev B                   |  Virtua Fighter 4                                                   | ???                     |
+| vf4c      | vf4      | GDS-0012C  | Rev C                   |  Virtua Fighter 4                                                   | ???                     |
 | vf4evo    | naomi2   | GDS-0024C  | Rev B, Japan            |  Virtua Fighter 4 Evolution Ver. B                                  | ???                     |
 | vf4evoa   | vf4evo   | GDS-0024A  | Japan                   |  Virtua Fighter 4 Evolution Ver. A                                  | ???                     |
-| vf4evob   | vf4evo   | GDS-0024B  | Rev B, Japan, Alt       |  Virtua Fighter 4 Evolution                                         | ???                     |
+| vf4evob   | vf4evo   | GDS-0024B  | Ver. B, Japan, Alt      |  Virtua Fighter 4 Evolution Ver. B                                  | ???                     |
 | vf4o      | vf4      | GDS-0012   |                         |  Virtua Fighter 4                                                   | ???                     |
-| vf4tuned  | naomi2   | GDS-0036F  | Rev F                   |  Virtua Fighter 4 Final Tuned Ver. B                                | ???                     |
+| vf4tuned  | naomi2   | GDS-0036F  | Ver. B                  |  Virtua Fighter 4 Final Tuned Ver. B                                | ???                     |
 | vf4tuneda | vf4tuned | GDS-0036A  | Rev A                   |  Virtua Fighter 4 Final Tuned                                       | ???                     |
-| vf4tunedd | vf4tuned | GDS-0036D  | Rev B                   |  Virtua Fighter 4 Final Tuned Ver. A                                | ???                     |
+| vf4tunedd | vf4tuned | GDS-0036D  | Ver. A                  |  Virtua Fighter 4 Final Tuned Ver. A                                | ???                     |
 | vstrik3   | naomi2   | GDS-0006   |                         |  Virtua Striker 3                                                   | ???                     |
 
 
