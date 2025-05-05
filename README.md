@@ -33,15 +33,16 @@ This repos aims to help to find names with arcade roms or scummvm game with thei
 - Merged [list](https://github.com/matakko/rom-name/blob/main/systems/naomi2.md#merged-list) / Non Merged [list](https://github.com/matakko/rom-name/blob/main/systems/naomi2.md#non-merged-list)
 - raw [txt](https://github.com/matakko/rom-name/blob/main/txt/naomi2-name.txt)
 
+## Sega Triforce (2002 - 2006)
+- 
+-
+
 ## Sega Chihiro (2002 - 2007)
 
 - List Sega Chihiro names [Chihiro](https://github.com/matakko/rom-name/blob/main/systems/chihiro.md)
 - Roms [list](https://github.com/matakko/rom-name/blob/main/systems/chihiro.md#chihiro) 
 - raw [txt](https://github.com/matakko/rom-name/blob/main/txt/chihiro-name.txt)
 
-## Sega Triforce (2002 - 2006)
-- 
--
 
 ## Sammy Atomiswave (2003 - 2010)
 
