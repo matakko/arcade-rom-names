@@ -83,9 +83,9 @@
 | soulsurf  | naomi2   | Rev A                     |  Soul Surfer                                                        |  028962C8 3FE38E39      | 
 | vf4cart   | naomi2   | World                     |  Virtua Fighter 4                                                   |  ???                    |
 | vf4evoct  | naomi2   | World                     |  Virtua Fighter 4 Evolution                                         |  ???                    |
-| vstrik3co | vstrik3c | World                     |  Virtua Striker 3                                                   |  ???                    |
 | vstrik3c  | naomi2   | Rev B, World              |  Virtua Striker 3                                                   |  ???                    |
 | vstrik3cb | naomi2   | Rev B ,USA, EXP, KOR, AUS |  Virtua Striker 3                                                   |  ???                    |
+| vstrik3co | vstrik3c | World                     |  Virtua Striker 3                                                   |  ???                    |
 | wldrider  | naomi2   |                           |  Wild Riders                                                        |  ???                    |
 
 
