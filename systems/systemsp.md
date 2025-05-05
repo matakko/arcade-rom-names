@@ -3,7 +3,7 @@
 
 
 # Bios
-[Back to the Top](#system-sp)
+[Back to the Top](#sega-system-sp)
 
 - segasp.zip:  <br />
 `epr-24236a.ic50      `   <br />
@@ -16,7 +16,7 @@
 `net_firm_119.ic72    `   <br />
 
 ## Roms list
-[Back to the Top](#system-sp)
+[Back to the Top](#sega-system-sp)
  
 | Roms         | Parent    | CHD        |  Version / Region        | Name                                                                |
 | ------------ | --------- | ---------- | ------------------------ | ------------------------------------------------------------------- | 
