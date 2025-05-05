@@ -1,5 +1,5 @@
 
-# System SP  
+# Sega System SP  
 
 
 # Bios
