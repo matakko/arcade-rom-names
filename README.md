@@ -34,7 +34,7 @@ This repos aims to help to find names with arcade roms or scummvm game with thei
 - raw [txt](https://github.com/matakko/rom-name/blob/main/txt/naomi2-name.txt)
 
 ## Sega Triforce (2002 - 2006)
-- 
+- List Sega Triforce names [Hikaru](https://github.com/matakko/rom-name/blob/main/systems/triforce.md)
 -
 
 ## Sega Chihiro (2002 - 2007)
@@ -51,7 +51,8 @@ This repos aims to help to find names with arcade roms or scummvm game with thei
 - raw [txt](https://github.com/matakko/rom-name/blob/main/txt/atomiswave-name.txt)
 
 ## Sega System SP (2005 - 2014)
-- 
+
+- List Sega System SP names [Chihiro](https://github.com/matakko/rom-name/blob/main/systems/systemsp.md)
 -
 
 ## Scummvm
