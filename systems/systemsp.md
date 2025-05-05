@@ -25,7 +25,7 @@
 | dinoking     | segasp    |            | USA                      | Dinosaur King                                                       |
 | dinokior     | segasp    | MDA-C0021  | USA, Export              | Dinosaur King - Operation: Dinosaur Rescue                          |
 | galilfac     | segasp    |            | main                     | Galileo Factory                                                     |
-| huhimage     | segasp    |            | Ver.1.003R               | Heat Up Hockey Image                                                |
+| huhimage     | segasp    | tsb0-sega00001 | Ver.1.003R               | Heat Up Hockey Image                                                |
 | isshoni      | segasp    |            |                          | Isshoni Wanwan Waiwai Puppy 2008                                    |
 | kingyo       | segasp    |            | Japan, Ver 1.005         | Yataimura Kingyosukui (1-player)                                    |
 | kingyoch     | segasp    |            | China, Ver 1.000         | Yataimura Kingyosukui (4-player)                                    |
