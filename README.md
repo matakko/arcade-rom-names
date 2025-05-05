@@ -18,7 +18,7 @@ This repos aims to help to find names with arcade roms or scummvm game with thei
 - raw [txt](https://github.com/matakko/rom-name/blob/main/txt/model3-name.txt)
 
 ## Sega Naomi (1999 - 2006)
-- List Sega Naomi names [Naomi](https://github.com/matakko/rom-name/blob/main/systems/naommi.md)
+- List Sega Naomi names [Naomi](https://github.com/matakko/rom-name/blob/main/systems/naomi.md)
 -
 
 ## Sega Hikaru (1999 - 2002)
