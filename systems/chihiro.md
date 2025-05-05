@@ -24,27 +24,30 @@ chihiro.zip  <br />
 ## Chihiro 
 [Back to the Top](#sega-chihiro)
 
-| Roms      | Parent   | CHD        | Version                 | Name                                                                                    | 
-| --------- | -------- | ---------- | ----------------------- | -------------------------------------------------------------------                     | 
-| crtaxihr  | chihiro  | gdx-0002b  |                         | Crazy Taxi High Roller (2003)                                                           |
-| ghostsqo  | chihiro  | gdx-0012   |                         | Ghost Squad (2004)                                                                      |
-| ghostsqu  | chihiro  | gdx-0012a  | Rev A                   | Ghost Squad : Version A (2005)                                                          |
-| gundamos  | chihiro  | gdx-0013   |                         | Gundam: Battle Operating Simulator (2005)                                               |
-| gundcb79  | chihiro  | CDV-10010  |                         | Mobile Suit Gundam 0079 (2006)                                                          |
-| gundcb79a | chihiro  | CDV-10024B | Ver.2.02                | Mobile Suit Gundam 0079 (2006)                                                          |
-| ollie     | chihiro  | gdx-0007   |                         | Ollie King (2004)                                                                       |
-| outr2     | chihiro  | gdx-0004a  | Rev A                   | OutRun 2 (2003)                                                                         |
-| outr2st   | chihiro  | gdx-0014a  | Rev A, Export           | OutRun 2 SP (2004)                                                                      |
-| outr2stj  | chihiro  | gdx-0011   | Japan                   | OutRun 2 SP (2004)                                                                      |
-| outr2stjo | chihiro  | gdx-0011a  | Rev A, Japan            | OutRun 2 SP (2004)                                                                      |
-| outr2sto  | chihiro  | gdx-0014   | Export                  | OutRun 2 SP (2004)                                                                      |
-| hotd3     | chihiro  | gdx-0001   |                         | The House of the Dead III (2003)                                                        |
-| vcop3     | chihiro  | gdx-0003b  | Rev B                   | Virtua Cop 3 (2003)                                                                     |
-| vcop3a    | chihiro  | gdx-0003a  | Rev A                   | Virtua Cop 3 (2003)                                                                     |
-| wangmid   | chihiro  | gdx-0009b  | Rev B, Export           | Wangan Midnight: Maximum Tune / Wangan Midnight: Maxi Boost (2004)                      |
-| wangmidj  | chihiro  | gdx-0008b  | Rev B, Japan            | Wangan Midnight: Maximum Tune / Wangan Midnight: Maxi Boost (2004)                      |
-| wangmid2  | chihiro  | gdx-0016a  | Rev A, Export           | Wangan Midnight: Maximum Tune 2 / Wangan Midnight: Maxi Boost 2 (2005)                  |
-|           |          |            |                         | Wangan Midnight: Maximum Tune 2 Ver.B / Wangan Midnight: Maxi Boost 2 Ver.B (2005)      |
+
+| Roms       | Parent   | CHD        | Version                 | Name                                                                | 
+| ---------- | -------- | ---------- | ----------------------- | ------------------------------------------------------------------- | 
+| crtaxihr   | chihiro  | GDX-0002b  |                         | Crazy Taxi High Roller (2003)                                       |
+| ghostsqo   | chihiro  | GDX-0012   |                         | Ghost Squad (2004)                                                  |
+| ghostsqu   | chihiro  | GDX-0012a  | Rev A                   | Ghost Squad : Version A (2005)                                      |
+| gundamos   | chihiro  | GDX-0013   |                         | Gundam: Battle Operating Simulator (2005)                           |
+| ollie      | chihiro  | GDX-0007   |                         | Ollie King (2004)                                                   |
+| outr2      | chihiro  | GDX-0004a  | Rev A                   | OutRun 2 (2003)                                                     |
+| outr2st    | chihiro  | GDX-0014a  | Rev A, Export           | OutRun 2 SP (2004)                                                  |
+| outr2stj   | chihiro  | GDX-0011A  | Rev A, Japan            | OutRun 2 SP (2004)                                                  |
+| outr2stjo  | chihiro  | GDX-0011   | Japan                   | OutRun 2 SP (2004)                                                  |
+| outr2sto   | chihiro  | GDX-0014   | Export                  | OutRun 2 SP (2004)                                                  |
+| hotd3      | chihiro  | GDX-0001   |                         | The House of the Dead III (2003)                                    |
+| vcop3      | chihiro  | GDX-0003b  | Rev B                   | Virtua Cop 3 (2003)                                                 |
+| vcop3a     | chihiro  | GDX-0003a  | Rev A                   | Virtua Cop 3 (2003)                                                 |
+| wangmd2b   | chihiro  | GDX-0016A  | Rev A, Export           | Wangan Midnight Maximum Tune 2 (2005)                               |
+| wangmid    | chihiro  | GDX-0009B  | Rev B, Export           | Wangan Midnight Maximum Tune (2004)                                 |
+| wangmid2   | chihiro  | GDX-0016A  | Rev A, Export           | Wangan Midnight Maximum Tune 2 (2005)                               |
+| wangmid2j  | chihiro  | GDX-0015   | Japan                   | Wangan Midnight Maximum Tune 2 (2005)                               |
+| wangmid2ja | chihiro  | GDX-0015A  | Rev A, Japan            | Wangan Midnight Maximum Tune 2 (2005)                               |
+| wangmid2o  | chihiro  | GDX-0016   | Export                  | Wangan Midnight Maximum Tune 2 (2005)                               |
+| wangmidj   | chihiro  | GDX-0008B  | Rev B, Japan            | Wangan Midnight Maximum Tune (2004)                                 |
+
 
 
 
@@ -55,21 +58,32 @@ chihiro.zip  <br />
 
 | Roms      | Parent   | CHD        | Version                 | Name                                                                |
 | --------- | -------- | ---------- | ----------------------- | ------------------------------------------------------------------- |
-| mj2       | chihiro  | gdx-0006g  | Rev G                   | MJ2 (2003)                                                          |
-| mj2c      | chihiro  | gdx-0006c  | Rev C                   | MJ2 (2003)                                                          |
-| mj2f      | chihiro  | gdx-0006f  | Rev F                   | MJ2 (2003)                                                          |
-| mj3       | chihiro  | gdx-0017f  | Rev F                   | MJ3 (2005)                                                          |
-| mj3c      | chihiro  | gdx-0017c  | Rev C                   | MJ3 (2005)                                                          |
-| mj3d      | chihiro  | gdx-0017d  | Rev D                   | MJ3 (2005)                                                          |
-| mj3evo    | chihiro  | gdx-0021b  | Rev B                   | MJ3 Evo (2007)                                                      |
-| mj3evoa   | chihiro  | gdx-0021a  | Rev A                   | MJ3 Evo (2007)                                                      |
-|           | chihiro  |            |                         | Quest for D: The Battle Kingdom (2007)                              |
-|           | chihiro  |            |                         | Quest Of D (2004)                                                   |
-|           | chihiro  |            |                         | Quest Of D Ver.2.0 (2005)                                           |
+| ccfboxa   | chihiro  | GDX-0024A  | Ver. 4.01               | Chihiro Firmware Update For Compact Flash Box Ver. 4.01             |
+| cregchg   | chihiro  | 611-0028A  |                         | Chihiro Change Region GD USA                                        |
+| gundcb79  | chihiro  | CDV-10010  |                         | Mobile Suit Gundam 0079 Card Builder (2006)                         |
+| gundcb79a | chihiro  | CDV-10024B | Ver.2.02                | Mobile Suit Gundam 0079 Card Builder Ver.2.02 (2006)                |
+| gundcb83  | chihiro  | CDV-10030  |                         | Mobile Suit Gundam 0083 Card Builder                                |
+| gundcb83a | chihiro  | CDV-10031  |                         | Mobile Suit Gundam 0083 Card Builder Check Disk                     |
+| gundcb83b | chihiro  | CDV-10037B | Ver.2.10                | Mobile Suit Gundam 0083 Card Builder Ver.2.10                       |
+| mj2       | chihiro  | GDX-0006G  | Rev G                   | Sega Network Taisen Mahjong MJ 2 (2003)                             ||
+| mj2c      | chihiro  | GDX-0006C  | Rev C                   | Sega Network Taisen Mahjong MJ 2 (2003)                             |
+| mj2f      | chihiro  | GDX-0006F  | Rev F                   | Sega Network Taisen Mahjong MJ 2 (2003)                             |
+| mj2g      | chihiro  | GDX-0006G  | Rev G                   | Sega Network Taisen Mahjong MJ 2 (2003)                             |
+| mj3       | chihiro  | GDX-0017F  | Rev F                   | Sega Network Taisen Mahjong MJ 3 (2005)                             |
+| mj3c      | chihiro  | GDX-0017C  | Rev C                   | Sega Network Taisen Mahjong MJ 3 (2005)                             |
+| mj3d      | chihiro  | GDX-0017D  | Rev D                   | Sega Network Taisen Mahjong MJ 3 (2005)                             |
+| mj3evo    | chihiro  | GDX-0021B  | Rev B                   | Sega Network Taisen Mahjong MJ 3 Evolution (2007)                   |
+| mj3evoa   | chihiro  | GDX-0021A  | Rev A                   | Sega Network Taisen Mahjong MJ 3 Evolution (2007)                   |
+| mj3evoup  | chihiro  | GDX-0023   |                         | Sega Network Taisen Mahjong MJ 3 Evolution Firmware Update          |
+| mj3f      | chihiro  | GDX-0017F  | Rev F                   | Sega Network Taisen Mahjong MJ 3                                    |
+| mj3up     | chihiro  | GDX-0019   |                         | Sega Network Taisen Mahjong MJ 3 Firmware Update                    |
+| qofdtbk   | chihiro  | CDV-10035B |                         | Quest for D: The Battle Kingdom (2007)                              |
+| questofd  | chihiro  | CDV-10005C |                         | Quest Of D (2004)                                                   |
+| qofd3     | chihiro  | CDV-10026D | Ver. 3.02               | Quest of D Oukoku no Syugosya Ver. 3.02 (2005)                      |
 |           | chihiro  |            |                         | Sangokushi Taisen (2005)                                            |
 |           | chihiro  |            |                         | Sangokushi Taisen 2 (2006)                                          |
 |           | chihiro  |            |                         | Sangokushi Taisen 3 (2008)                                          |
-|           | chihiro  |            |                         | Sega Golf Club Network Pro Tour (2004)                              |
-| scg05nt   | chihiro  | gdx-0010c  | Rev C                   | Sega Golf Club Network Pro Tour (2005)                              |
-| scg05ntb  | chihiro  | gdx-0010b  | Rev B                   | Sega Golf Club Network Pro Tour (2005)                              |
-|           | chihiro  |            |                         | Sega Golf Club Version 2006 : Next Tours (2006)                     |
+| scg05nt   | chihiro  | GDX-0010C  | Rev C                   | Sega Golf Club Network Pro Tour (2005)                              |
+| scg05ntb  | chihiro  | GDX-0010B  | Rev B                   | Sega Golf Club Network Pro Tour (2005)                              |
+| scg06nt   | chihiro  | GDX-0018A  | Rev A                   | Sega Golf Club Version 2006 : Next Tours (2006)                     |
+     
