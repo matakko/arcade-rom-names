@@ -1,13 +1,12 @@
 ## Arcade 
-- Arcade [list A to N](https://github.com/matakko/rom-name/blob/main/systems/arcade-a-to-n.md)
-- Arcade [list O to Z](https://github.com/matakko/rom-name/blob/main/systems/arcade-o-to-z.md)
-- Raw .txt full [list](https://github.com/matakko/rom-name/blob/main/txt/arcade-name.txt)
 
+| Arcade [list A to N](https://github.com/matakko/rom-name/blob/main/systems/arcade-a-to-n.md) | Arcade [list O to Z](https://github.com/matakko/rom-name/blob/main/systems/arcade-o-to-z.md) | Raw .txt full [list](https://github.com/matakko/rom-name/blob/main/txt/arcade-name.txt) |
+| -- | -- | -- | 
 
 ## Scummvm
+| Scummvm  [list](https://github.com/matakko/rom-name/blob/main/systems/scummvm.md) | Raw .txt full [list](https://github.com/matakko/rom-name/blob/main/txt/scummvm-name.txt) | 
+| -- | -- |  
 
-- Scummvm  [list](https://github.com/matakko/rom-name/blob/main/systems/scummvm.md)
-- Raw .txt full [list](https://github.com/matakko/rom-name/blob/main/txt/scummvm-name.txt)
 
 ## Sega Arcade 
 ### Sega arcade boards:
