@@ -294,7 +294,7 @@
 
 # Naomi gd   
 ## Bios
-Naomi-gd.zip   <br /> 
+- naomigd.zip   <br /> 
 `epr-21576h.ic27  ` <br /> 
 `epr-21576g.ic27  ` <br /> 
 `epr-21576e.ic27  ` <br /> 
