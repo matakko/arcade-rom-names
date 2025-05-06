@@ -8,6 +8,7 @@
 ## Bios 
 
 - triforce.zip   <br />
+`triforce_bootrom.bin`
 
 
 ## Triforce
