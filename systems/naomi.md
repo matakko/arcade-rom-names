@@ -1,8 +1,9 @@
 
 # Sega Naomi
 
-| [Naomi](#naomi)       | [Naomi GD](#naomi-gd)       |
- | ---------- | --------- |
+| [Naomi](#naomi)       | [Naomi GD](#naomi-gd)       | [Airline Pilots](#airline-pilots)     |  [F355](#f355)       | [House of the Dead](#house-of-the-dead)       |
+ | ---------- | --------- | ---------- |  --------- | ---------- |  
+
 
 ## Airline Pilots
 [Back to the Top](#sega-naomi)
@@ -26,15 +27,12 @@
 `epr-22850.ic27  ` <br />
 `epr-22849.ic27  ` <br />
 
-
 - f355dlx.zip  <br />
 `epr-21864.ic27  ` <br /> 
 `epr-21863.ic27  ` <br /> 
 `epr-21862.ic27  ` <br /> 
 `epr-21864p.ic27 ` <br />
 `epr-21862p.ic27 ` <br />
-
- 
 
 | Roms       | parent    |  Version / Region              |  Name                                                                           |
 | ---------- | --------- | ------------------------------ | ------------------------------------------------------------------------------- |
@@ -54,8 +52,6 @@
 `epr-21330.ic27      `<br /> 
 `epr-21329.ic27      `<br /> 
 `hotd2biosproto.ic27 `
-
-
 
 | Roms       | parent    |  Version / Region              |  Name                                                                           |
 | ---------- | --------- | ------------------------------ | ------------------------------------------------------------------------------- |
