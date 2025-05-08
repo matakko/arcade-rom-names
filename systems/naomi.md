@@ -39,7 +39,7 @@
 | f355       | f355dlx   | Deluxe, no link                | Ferrari F355 Challenge                                                          |
 | f355p      | f355      | Private show version           | Ferrari F355 Challenge                                                          |
 | f355twin   | f355bios  | Twin/deluxe                    | Ferrari F355 Challenge                                                          |
-| f355twinp  | f355twin  | Twin/deluxe, preview           | f355twinp Ferrari F355 Challenge                                                |
+| f355twinp  | f355twin  | Twin/deluxe, preview           | Ferrari F355 Challenge                                                          |
 | f355twn2   | f355bios  | Twin/deluxe                    | Ferrari F355 Challenge 2 - International Course Edition                         |
 
 
