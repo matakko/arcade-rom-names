@@ -118,6 +118,7 @@ x76f100_eeprom.bin (naomibd_eeprom $0 - 132)
 ```
 
 ## Roms List
+[Back to the Top](#sega-naomi)
 
 | Roms       | parent    |  Version / Region              |  Name                                                                           | Widescreen Cheat Codes                   |
 | ---------- | --------- | ------------------------------ | ------------------------------------------------------------------------------- | ---------------------------------------- |
@@ -301,7 +302,8 @@ x76f100_eeprom.bin (naomibd_eeprom $0 - 132)
 | zunou      | naomi     | Rev A, Japan                   | Touch De Zunou                                                                  |                                          |
 
 
-# Naomi gd   
+# Naomi gd  
+[Back to the Top](#sega-naomi) 
 ## Bios
 - naomigd.zip
 ```
