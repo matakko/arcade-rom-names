@@ -5,15 +5,21 @@
 # Bios
 [Back to the Top](#sega-system-sp)
 
-- segasp.zip:  <br />
-`epr-24236a.ic50      `   <br />
-`epr-24328.ic50       `   <br />
-`epr-24328a.ic50      `   <br />
-`mb_eeprom_exp.ic54s  `   <br />
-`mb_eeprom_us.ic54s   `   <br />
-`mb_serial.ic57       `   <br />
-`net_eeprom.ic74s     `   <br />
-`net_firm_119.ic72    `   <br />
+- segasp.zip:
+```
+epr-24236a.ic50 (maincpu $0 - 2MB) BOOT VER 1.01
+epr-24328.ic50 (maincpu $0 - 2MB) BOOT VER 2.00
+epr-24328a.ic50 (maincpu $0 - 2MB) BOOT VER 2.01
+mb_serial.ic57 (main_eeprom $0 - 128 bytes)
+net_eeprom.ic74s (netcpu $0 - 512 bytes)
+net_firm_119.ic72 (netcpu $0 - 2MB)
+fpr-24208a.ic72 (netcpu $0 - 2MB)
+fpr-24329.ic72 (netcpu $0 - 2MB)
+fpr-24407.ic72 (netcpu $0 - 2MB)
+fpr-24407_123.ic72 (netcpu $0 - 2MB)
+mb_eeprom_us.ic54s (sp_eeprom $0 - 128 bytes)
+mb_eeprom_exp.ic54s (sp_eeprom $0 - 128 bytes)
+```
 
 ## Roms list
 [Back to the Top](#sega-system-sp)
