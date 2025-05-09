@@ -14,10 +14,12 @@
 ## Bios:  
 [Back to the Top](#atomiswave)
  
-awbios.zip    
-`bios0.ic23       `<br />
-`bios1.ic23       `<br />
-`fpr-24363.ic48   `<br />
+- awbios.zip
+```
+bios0.ic23 (awflash $0 - 128k) (Sammy BIOS)
+bios1.ic23 (awflash $0 - 128k) (Sammy BIOS)
+fpr-24363.ic48 (awflash $0 - 512k) (Sega BIOS)
+```
  
 
 ## Roms list 
