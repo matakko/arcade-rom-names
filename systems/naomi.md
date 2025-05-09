@@ -8,9 +8,13 @@
 ## Airline Pilots
 [Back to the Top](#sega-naomi)
 ### Bios
-- airlbios.zip  <br />
-`epr-21802.ic27  ` <br />
-`epr-21801.ic27  ` <br /> 
+- airlbios.zip 
+```
+epr-21802.ic27 (maincpu $0 - 2MB) (Export)
+epr-21801.ic27 (maincpu $0 - 2MB) (USA)
+main_eeprom.bin (main_eeprom $0 - 128 bytes)
+76f100_eeprom.bin (naomibd_eeprom $0 - 132 bytes)
+```
 
 
 | Roms       | parent    |  Version / Region              |  Name                                                                           |
@@ -22,17 +26,25 @@
 ## F355
 [Back to the Top](#sega-naomi)
 ### Bios
-- f355bios.zip  <br />
-`epr-22851.ic27  ` <br />
-`epr-22850.ic27  ` <br />
-`epr-22849.ic27  ` <br />
+- f355bios.zip
+```
+epr-22851.ic27 (maincpu $0 - 2MB) Ferrari F355 (Export)
+epr-22850.ic27 (maincpu $0 - 2MB) Ferrari F355 (USA)
+epr-22849.ic27 (maincpu $0 - 2MB) Ferrari F355 (Japan)
+main_eeprom.bin (main_eeprom $0 - 128 bytes)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132 bytes)
+```
 
-- f355dlx.zip  <br />
-`epr-21864.ic27  ` <br /> 
-`epr-21863.ic27  ` <br /> 
-`epr-21862.ic27  ` <br /> 
-`epr-21864p.ic27 ` <br />
-`epr-21862p.ic27 ` <br />
+- f355dlx.zip
+```
+epr-21864.ic27 (maincpu $0 - 2MB) Ferrari F355 Deluxe (Export)
+epr-21863.ic27 (maincpu $0 - 2MB) Ferrari F355 Deluxe (USA)
+epr-21862.ic27 (maincpu $0 - 2MB) Ferrari F355 Deluxe (Japan)
+epr-21864p.ic27 (maincpu $0 - 2MB) Ferrari F355 Deluxe (Export, prototype)
+epr-21862p.ic27 (maincpu $0 - 2MB) Ferrari F355 Deluxe (Japan, prototype)
+main_eeprom.bin (main_eeprom $0 - 128 bytes)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132 bytes)
+```
 
 | Roms       | parent    |  Version / Region              |  Name                                                                           |
 | ---------- | --------- | ------------------------------ | ------------------------------------------------------------------------------- |
@@ -46,12 +58,16 @@
 ## House of the Dead 
 [Back to the Top](#sega-naomi)
 ### Bios 
-- hod2bios.zip <br /> 
-`epr-21332.ic27      `<br /> 
-`epr-21331.ic27      `<br /> 
-`epr-21330.ic27      `<br /> 
-`epr-21329.ic27      `<br /> 
-`hotd2biosproto.ic27 `
+- hod2bios.zip
+```
+epr-21331.ic27 (cpu1 $0 - 2MB) HOTD2 (Export)
+epr-21330.ic27 (cpu1 $0 - 2MB) HOTD2 (USA)
+epr-21329.ic27 (cpu1 $0 - 2MB) HOTD2 (Japan)
+epr-21332.ic27 (cpu1 $0 - 2MB) HOTD2 (Korea)
+hotd2biosproto.ic27 (cpu1 $0 - 2MB) HOTD2 (Proto)
+main_eeprom.bin (main_eeprom $0 - 128 bytes)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132 bytes)
+```
 
 | Roms       | parent    |  Version / Region              |  Name                                                                           |
 | ---------- | --------- | ------------------------------ | ------------------------------------------------------------------------------- |
@@ -66,37 +82,40 @@
 # Naomi
 [Back to the Top](#sega-naomi) 
 ## Bios 
-- naomi.zip <br />
-`epr-21576h.ic27      ` <br />
-`epr-21576g.ic27      ` <br />
-`epr-21576e.ic27      ` <br />
-`epr-21576d.ic27      ` <br />
-`epr-21576c.ic27      ` <br />
-`epr-21576b.ic27      ` <br />
-`epr-21576a.ic27      ` <br />
-`epr-21576.ic27       ` <br />
-`epr-21578h.ic27      ` <br />
-`epr-21578g.ic27      ` <br />
-`epr-21578f.ic27      ` <br />
-`epr-21578e.ic27      ` <br />
-`epr-21578d.ic27      ` <br />
-`epr-21578a.ic27      ` <br />
-`epr-21577h.ic27      ` <br />
-`epr-21577g.ic27      ` <br />
-`epr-21577e.ic27      ` <br />
-`epr-21577d.ic27      ` <br />
-`epr-21577a.ic27      ` <br />
-`epr-21579d.ic27      ` <br />
-`epr-21579.ic27       ` <br />
-`boot_rom_64b8.ic606  ` <br />
-`develop110.ic27      ` <br />
-`develop.ic27         ` <br />
-`zukinver0930.ic25    ` <br /> 
-`epr-21576h_multi.ic27` <br /> 
-`boot_rom_64b8.ic606  ` <br /> 
-`develop110.ic27      ` <br /> 
-`develop.ic27         ` <br /> 
-`315-6188.ic31 ?      ` <br /> 
+- naomi.zip
+```
+epr-21576h.ic27 (maincpu $0 - 2MB) Japan
+epr-21576g.ic27 (maincpu $0 - 2MB) Japan
+epr-21576e.ic27 (maincpu $0 - 2MB) Japan
+epr-21576d.ic27 (maincpu $0 - 2MB) Japan
+epr-21576c.ic27 (maincpu $0 - 2MB) Japan
+epr-21576b.ic27 (maincpu $0 - 2MB) Japan
+epr-21576a.ic27 (maincpu $0 - 2MB) Japan
+epr-21576.ic27 (maincpu $0 - 2MB) Japan
+epr-21578h.ic27 (maincpu $0 - 2MB) Export
+epr-21578g.ic27 (maincpu $0 - 2MB) Export
+epr-21578f.ic27 (maincpu $0 - 2MB) Export
+epr-21578e.ic27 (maincpu $0 - 2MB) Export
+epr-21578d.ic27 (maincpu $0 - 2MB) Export
+epr-21578a.ic27 (maincpu $0 - 2MB) Export
+epr-21577h.ic27 (maincpu $0 - 2MB) USA
+epr-21577g.ic27 (maincpu $0 - 2MB) USA
+epr-21577e.ic27 (maincpu $0 - 2MB) USA
+epr-21577d.ic27 (maincpu $0 - 2MB) USA
+epr-21577a.ic27 (maincpu $0 - 2MB) USA
+epr-21579d.ic27 (maincpu $0 - 2MB) Korea
+epr-21579.ic27 (maincpu $0 - 2MB) Korea
+boot_rom_64b8.ic606 (maincpu $0 - 512k) Set4 Dev BIOS
+develop110.ic27 (maincpu $0 - 2MB) Dev BIOS v1.10
+develop.ic27 (maincpu $0 - 2MB) "Dev BIOS (Nov 1998)
+zukinver0930.ic25 (maincpu $0 - 2MB) Development ROM Board
+epr-21576h_multi.ic27 (maincpu $0 - 2MB) Multi-region hack
+epr-21336a.ic27 (maincpu $0 - 2MB) Dev BIOS v1.2
+naomi_boot_2491.ic27 (maincpu $0 - 2MB) Dev Naomi Boot 2491
+315-6188.ic31 (altera_pof $0 - 8244)
+main_eeprom.bin (main_eeprom $0 - 128)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132)
+```
 
 ## Roms List
 
@@ -282,24 +301,22 @@
 | zunou      | naomi     | Rev A, Japan                   | Touch De Zunou                                                                  |                                          |
 
 
-
-
-
-
-
-
 # Naomi gd   
 ## Bios
-- naomigd.zip   <br /> 
-`epr-21576h.ic27  ` <br /> 
-`epr-21576g.ic27  ` <br /> 
-`epr-21576e.ic27  ` <br /> 
-`epr-21578h.ic27  ` <br /> 
-`epr-21578g.ic27  ` <br /> 
-`epr-21578e.ic27  ` <br /> 
-`epr-21577h.ic27  ` <br /> 
-`epr-21577g.ic27  ` <br /> 
-`epr-21577e.ic27  ` <br /> 
+- naomigd.zip
+```
+epr-21576e.ic27 (maincpu $0 - 2MB) Japan
+epr-21576g.ic27 (maincpu $0 - 2MB) Japan
+epr-21576h.ic27 (maincpu $0 - 2MB) Japan
+epr-21578h.ic27 (maincpu $0 - 2MB) Export
+epr-21578g.ic27 (maincpu $0 - 2MB) Export
+epr-21578e.ic27 (maincpu $0 - 2MB) Export
+epr-21577h.ic27 (maincpu $0 - 2MB) USA
+epr-21577g.ic27 (maincpu $0 - 2MB) USA
+epr-21577e.ic27 (maincpu $0 - 2MB) USA
+main_eeprom.bin (main_eeprom $0 - 128)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132)
+```
 
 ## Roms List
 [Back to the Top](#sega-naomi)
