@@ -14,7 +14,7 @@
 | [Model 2](https://github.com/matakko/rom-name/blob/main/systems/model2.md) <br /> (1993 - 1999)    | [Model 3](https://github.com/matakko/rom-name/blob/main/systems/model3.md) <br /> (1996 - 1999)    |
 | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | 
 | Merged [list](https://github.com/matakko/rom-name/blob/main/systems/model2.md#merged-list) <br /> Non Merged [list](https://github.com/matakko/rom-name/blob/main/systems/model2.md#non-merged-list) | Merged [list](https://github.com/matakko/rom-name/blob/main/systems/model3.md#merged-list) <br />Non Merged [list](https://github.com/matakko/rom-name/blob/main/systems/model3.md#non-merged-list) |
-### Console-based hardware (flycast):
+### Console-based hardware (+Flycast [All in one list](https://github.com/matakko/rom-name/blob/main/systems/flycastarcade-allinone.md)):
 
 |  [Naomi](https://github.com/matakko/rom-name/blob/main/systems/naomi.md) <br /> (1999 - 2006)    |  [Naomi 2](https://github.com/matakko/rom-name/blob/main/systems/naomi2.md) <br /> (2001 - 2004)    |  [Atomiswave](https://github.com/matakko/rom-name/blob/main/systems/atomiswave.md) <br /> (2003 - 2010)    | [System SP](https://github.com/matakko/rom-name/blob/main/systems/systemsp.md) <br /> (2005 - 2014)    | 
 | ------------------------ | ------------------------ | ------------------------ | ------------------------ | 
