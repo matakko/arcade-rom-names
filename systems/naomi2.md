@@ -13,22 +13,24 @@
 ## Bios
 [Back to the Top](#naomi-2)
 
-- naomi2.zip  <br /> 
-` epr-23605.ic27         ` <br /> 
-` epr-23605a.ic27        ` <br /> 
-` epr-23605b.ic27        ` <br /> 
-` epr-23605c.ic27        ` <br /> 
-` epr-23605c_multi.ic27  ` <br /> 
-` epr-23607.ic27         ` <br /> 
-` epr-23607b.ic27        ` <br /> 
-` epr-23607c.ic27        ` <br /> 
-` epr-23608.ic27         ` <br /> 
-` epr-23608a.ic27        ` <br /> 
-` epr-23608b.ic27        ` <br /> 
-` epr-23608c.ic27        ` <br /> 
-` epr-23609b.ic27        ` <br /> 
-` main_eeprom.bin        ` <br /> 
-` x76f100_eeprom.bin     `
+- naomi2.zip
+```
+epr-23605c.ic27 (maincpu $0 - 2MB) Japan
+epr-23605b.ic27 (maincpu $0 - 2MB) Japan
+epr-23605a.ic27 (maincpu $0 - 2MB) Japan
+epr-23605.ic27 (maincpu $0 - 2MB) Japan
+epr-23608c.ic27 (maincpu $0 - 2MB) Export
+epr-23608b.ic27 (maincpu $0 - 2MB) Export
+epr-23608a.ic27 (maincpu $0 - 2MB) Export
+epr-23608.ic27 (maincpu $0 - 2MB) Export
+epr-23607c.ic27 (maincpu $0 - 2MB) USA
+epr-23607b.ic27 (maincpu $0 - 2MB) USA
+epr-23607.ic27 (maincpu $0 - 2MB) USA
+epr-23609b.ic27 (maincpu $0 - 2MB) Korea
+epr-23605c_multi.ic27 (maincpu $0 - 2MB) Multi-region hack
+main_eeprom.bin (main_eeprom $0 - 128)
+x76f100_eeprom.bin (naomibd_eeprom $0 - 132)
+``` 
 
 
 ## Merged list:
